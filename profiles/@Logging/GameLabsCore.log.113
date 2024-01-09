@@ -1,0 +1,34 @@
+************************** 2023-11-11T23:00:26+00:00 **************************
+2023-11-11T23:00:30+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-11-11T23:00:30+00:00 | [INFO	] Experimental speed check is enabled
+2023-11-12T00:00:35+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-12T00:00:35+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-12T00:00:35+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-12T00:09:02+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-11-12T00:09:02+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-11-12T00:09:02+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199108250772, distance=2443.11u, unitsPerSecond=977.244 [threshold=8, inVehicle=0, triggers=1])
+2023-11-12T00:09:02+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-11-12T00:09:02+00:00 | [WARN	] ****************************************
+2023-11-12T00:39:40+00:00 | [WARN	] ********* EXPERIMENTAL FEATURE *********
+2023-11-12T00:39:40+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-11-12T00:39:40+00:00 | [WARN	] [SPEED-HACK] Potential speed-hack player=76561199108250772, distance=82.6062u, unitsPerSecond=33.0425 [threshold=8, inVehicle=0, triggers=1])
+2023-11-12T00:39:40+00:00 | [WARN	] THIS MAY BE A FALSE POSITIVE; DO NOT BLANKET BAN
+2023-11-12T00:39:40+00:00 | [WARN	] ****************************************
+2023-11-12T01:00:40+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-12T01:00:40+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-12T01:00:40+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-12T01:18:30+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-12T01:18:35+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-12T02:00:45+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-12T02:00:45+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-12T02:00:45+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-12T03:00:45+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-12T03:00:45+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-12T03:00:46+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-12T03:47:35+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-12T03:47:40+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-12T04:00:51+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-12T04:00:51+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-12T04:00:51+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-12T05:00:00+00:00 | [INFO	] (Reporter) Disabled
+2023-11-12T05:00:00+00:00 | [INFO	] (Core) Attempting graceful exit

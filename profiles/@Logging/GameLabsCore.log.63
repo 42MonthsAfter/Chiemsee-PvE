@@ -1,0 +1,32 @@
+************************** 2023-11-01T16:00:26+00:00 **************************
+2023-11-01T16:00:29+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-11-01T16:00:29+00:00 | [INFO	] Experimental speed check is enabled
+2023-11-01T17:00:33+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-01T17:00:33+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-01T17:00:34+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-01T18:00:39+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-01T18:00:39+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-01T18:00:39+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-01T18:05:59+00:00 | [WARN	] [Spawn] Spawning InjectorZivirol (x10) for SurvivorBase<83c923d0>
+2023-11-01T18:05:59+00:00 | [WARN	] [Spawn] Spawning InjectorZivirol (x10) for SurvivorBase<83c923d0>
+2023-11-01T19:00:44+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-01T19:00:44+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-01T19:00:44+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-01T20:00:49+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-01T20:00:49+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-01T20:00:49+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-01T21:00:54+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-11-01T21:00:54+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-11-01T21:00:54+00:00 | [WARN	] RegisterAsync re-authorized
+2023-11-01T21:20:29+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-01T21:20:34+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-01T21:20:39+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-01T21:20:44+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-01T21:20:49+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-01T21:20:54+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-01T21:20:59+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-01T21:21:04+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-01T21:21:09+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-01T21:21:14+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-11-01T22:00:01+00:00 | [INFO	] (Reporter) Disabled
+2023-11-01T22:00:01+00:00 | [INFO	] (Core) Attempting graceful exit

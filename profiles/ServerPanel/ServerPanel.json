@@ -1,0 +1,50 @@
+{
+    "SERVERNAME": "Welcome to 42 Months After!",
+    "BUTTON1NAME": "DISCORD",
+    "BUTTON1LINK": "http://discord.42monthsafter.com",
+    "BUTTONTAB0NAME": "PvE Survival",
+    "BUTTONTAB1NAME": "Syberia Mod",
+    "BUTTONTAB2NAME": "Base Building",
+    "BUTTONTAB3NAME": "",
+    "DISPLAYPLAYERINFO": 0,
+    "DISPLAYPLAYERTAB": 0,
+    "sServerTab0": [
+        "Welcome to hard core survival!",
+        " ",
+        "Zombie's are stronger than usual and can break into doors.",
+        "You are going to have to play tactically unless running with a large squad.",
+        "",
+        "There are 3 kinds of radioactive bears that can not be taken down by one person.",
+        "Large packs of wolves with hell hounds and ghost wolves roam these lands.",
+        " ",
+        "No PvP is allowed. Magic bullet will inflect damage on the shooter if PvP happens.",
+        "Be safe out there!"
+    ],
+    "sServerTab1": [
+        "The syberia mod brings a whole new level of health issues to DayZ.",
+        " ",
+        "You will need to know what kind of medicines cure each issue you encounter.",
+        "Check the Discord for all the details you will need to survive.",
+        " ",
+        "Each character has 5 souls. Every time you die it costs 1 sould to respawn.",
+        "After you have used all 5 souls you will have to start a new character and will lose your skill progression.",
+        " ",
+        "This is meant to be hard care so take your time, play safe, stay healthy.",
+        " "
+    ],
+    "sServerTab2": [
+        "We only have a few rules when it comes to base building.",
+        " ",
+        "Don't block off loot spawns or military zones. That's it.",
+        "Anything else goes.",
+        " ",
+        "Make sure you have a flag or else your loot will despawn.",
+        " ",
+        "There is no base raiding on this server.",
+        "That means no sneaking in or jumping walls.",
+        "Unsecurred bases are fair game to loot."
+    ],
+    "sServerTab3": [
+        ""
+    ]
+}

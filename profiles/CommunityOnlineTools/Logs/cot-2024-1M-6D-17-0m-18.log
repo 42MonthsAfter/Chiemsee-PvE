@@ -1,0 +1,195 @@
+[COT 2024-1M-6D 19:19:46] 76561199108250772: Spawned Entity M4-A1 (M4A1_Base<da06f2a0>, 100, 200, 0) at <9622.604492, 10.311325, 8769.697266>
+[COT 2024-1M-6D 19:20:17] 76561199108250772: Set GodMode To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-1M-6D 19:20:18] 76561199108250772: Set cannot be targeted by AI to true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-1M-6D 19:20:19] 76561199108250772: Set UnlimitedStamina To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-1M-6D 19:20:19] 76561199108250772: Set UnlimitedAmmo To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-1M-6D 19:20:27] 76561199108250772: Entered the Free Camera
+[COT 2024-1M-6D 19:20:32] 76561199108250772: Left the Free Camera
+[COT 2024-1M-6D 19:20:54] 76561199108250772: Spawned Entity Standardized Suppressor (M4_Suppressor<54e3c9e0>, 100, 12, 0) at <9644.274414, 15.519199, 8875.810547>
+[COT 2024-1M-6D 19:24:24] 76561199108250772: Spawned Entity Mosin 91/30 (Mosin9130<d7a67f40>, 100, 250, 0) at <9549.652344, 15.593223, 8891.837891>
+[COT 2024-1M-6D 19:24:32] 76561199108250772: Entered the Free Camera
+[COT 2024-1M-6D 19:24:40] 76561199108250772: Left the Free Camera
+[COT 2024-1M-6D 19:24:52] 76561199108250772: Spawned Entity Sea Chest (SeaChest<d5f29a80>, 100, 600, 0) at <9622.794922, 7.427259, 8767.162109>
+[COT 2024-1M-6D 19:24:59] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<d5f07970>, 100, 100, 0) at <9622.784180, 7.679157, 8766.916992>
+[COT 2024-1M-6D 19:24:59] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<d5f0ec30>, 100, 100, 0) at <9622.782227, 7.740509, 8766.857422>
+[COT 2024-1M-6D 19:25:4s] 76561199108250772: Spawned Entity #syb_topoizomeraza_name (InjectorBase<d5f2c0c0>, 100, 100, 0) at <9622.779297, 7.790798, 8766.808594>
+[COT 2024-1M-6D 19:25:5s] 76561199108250772: Spawned Entity #syb_topoizomeraza_name (InjectorBase<d5f16880>, 100, 100, 0) at <9622.776367, 7.861475, 8766.740234>
+[COT 2024-1M-6D 19:25:23] 76561199108250772: Spawned Entity Alcoholic Tincture (DisinfectantAlcohol<d05f8fb0>, 200, 30, 0) at <9622.725586, 7.427258, 8766.127930>
+[COT 2024-1M-6D 19:25:24] 76561199108250772: Spawned Entity Alcoholic Tincture (DisinfectantAlcohol<a6904930>, 200, 30, 0) at <9622.720703, 7.641277, 8766.098633>
+[COT 2024-1M-6D 19:25:35] 76561199108250772: Spawned Entity Canteen (Canteen<dd0cca20>, 1000, 100, 512) at <9622.739258, 7.427258, 8766.068359>
+[COT 2024-1M-6D 19:25:46] 76561199108250772: Spawned Entity Bandage (BandageDressing<cdc60fc0>, 4, 50, 0) at <9622.717773, 7.427259, 8766.088867>
+[COT 2024-1M-6D 19:25:47] 76561199108250772: Spawned Entity Bandage (BandageDressing<cdc6d890>, 4, 50, 0) at <9622.710938, 7.516024, 8766.059570>
+[COT 2024-1M-6D 19:25:55] 76561199108250772: Entered the Free Camera
+[COT 2024-1M-6D 19:26:2s] 76561199108250772: Left the Free Camera
+[COT 2024-1M-6D 19:33:24] 76561199108250772: Teleported to position <9245.759766, 4.500001, 1859.089966>
+[COT 2024-1M-6D 19:33:54] 76561199108250772: Spawned Entity #syb_adepress (TabletsBase<a70c4050>, 10, 50, 0) at <9256.680664, 4.081188, 1873.761353>
+[COT 2024-1M-6D 19:33:55] 76561199108250772: Spawned Entity #syb_adepress (TabletsBase<d68b2750>, 10, 50, 0) at <9256.653320, 4.166000, 1873.721069>
+[COT 2024-1M-6D 19:34:21] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<548f23c0>, 4, 100, 0) at <9256.596680, 4.071881, 1874.138306>
+[COT 2024-1M-6D 19:34:26] 76561199108250772: Spawned Entity #syb_topoizomeraza_name (InjectorBase<548c26c0>, 4, 100, 0) at <9256.557617, 4.135211, 1874.110718>
+[COT 2024-1M-6D 19:35:1s] 76561199108250772: Spawned Entity Boxed 7.62x54mmR Tracer Rounds (AmmoBox_762x54Tracer_20Rnd<548e77a0>, 100, 100, 0) at <9255.947266, 4.094128, 1873.558594>
+[COT 2024-1M-6D 19:40:19] 76561199108250772: Teleported to position <5522.559082, 4.399429, 8839.477539>
+[COT 2024-1M-6D 19:41:28] 76561199108250772: Teleported to position <5763.373047, 3.018202, 8565.667969>
+[COT 2024-1M-6D 19:44:59] 76561199108250772: Entered the Free Camera
+[COT 2024-1M-6D 19:45:12] 76561199108250772: Left the Free Camera
+[COT 2024-1M-6D 19:45:31] 76561199108250772: Set GodMode To false [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-1M-6D 19:45:35] 76561199108250772: Set cannot be targeted by AI to false [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-1M-6D 19:45:35] 76561199108250772: Set UnlimitedStamina To false [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-1M-6D 19:45:36] 76561199108250772: Set UnlimitedAmmo To false [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-1M-6D 19:45:38] 76561199108250772: Set UnlimitedAmmo To false [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-1M-6D 22:17:35] 76561199108250772: Teleported to position <6336.696289, 1.910624, 5706.352539>
+[COT 2024-1M-6D 22:18:7s] 76561199108250772: Spawned Entity Fence Kit (FenceKit<ccaeb210>, 100, 200, 0) at <6351.211426, 3.019282, 5733.499512>
+[COT 2024-1M-6D 22:19:1s] 76561199108250772: ESP: Viewing ESP
+[COT 2024-1M-6D 22:19:4s] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=base required_materials=false
+[COT 2024-1M-6D 22:19:6s] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_platform required_materials=false
+[COT 2024-1M-6D 22:19:8s] 76561199108250772: ESP target=Fence<aeb8bf10> action=dismantle part=wall_platform
+[COT 2024-1M-6D 22:19:9s] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_base_down required_materials=false
+[COT 2024-1M-6D 22:19:11] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_wood_down required_materials=false
+[COT 2024-1M-6D 22:19:12] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_base_up required_materials=false
+[COT 2024-1M-6D 22:19:15] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_wood_up required_materials=false
+[COT 2024-1M-6D 22:19:17] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_platform required_materials=false
+[COT 2024-1M-6D 22:19:19] 76561199108250772: ESP target=Fence<aeb8bf10> action=dismantle part=wall_platform
+[COT 2024-1M-6D 22:19:20] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_platform required_materials=false
+[COT 2024-1M-6D 22:19:26] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_platform_stairs_left required_materials=false
+[COT 2024-1M-6D 22:19:27] 76561199108250772: ESP target=Fence<aeb8bf10> action=dismantle part=wall_platform_stairs_left
+[COT 2024-1M-6D 22:19:29] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_platform_stairs_right required_materials=false
+[COT 2024-1M-6D 22:19:31] 76561199108250772: ESP target=Fence<aeb8bf10> action=dismantle part=wall_platform_stairs_right
+[COT 2024-1M-6D 22:19:54] 76561199108250772: ESP target=Fence<aeb8bf10> action=dismantle part=wall_wood_down
+[COT 2024-1M-6D 22:19:56] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_wood_down required_materials=false
+[COT 2024-1M-6D 22:19:57] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_platform_stairs_right required_materials=false
+[COT 2024-1M-6D 22:19:59] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_platform_stairs_left required_materials=false
+[COT 2024-1M-6D 22:20:1s] 76561199108250772: ESP target=Fence<aeb8bf10> action=dismantle part=wall_platform_stairs_left
+[COT 2024-1M-6D 22:20:2s] 76561199108250772: ESP target=Fence<aeb8bf10> action=dismantle part=wall_platform
+[COT 2024-1M-6D 22:20:6s] 76561199108250772: ESP: Clearing ESP
+[COT 2024-1M-6D 22:20:20] 76561199108250772: ESP: Viewing ESP
+[COT 2024-1M-6D 22:20:29] 76561199108250772: ESP target=Fence<aeb8bf10> action=dismantle part=wall_platform_stairs_right
+[COT 2024-1M-6D 22:20:33] 76561199108250772: ESP target=Fence<aeb8bf10> action=built part=wall_gate required_materials=false
+[COT 2024-1M-6D 22:20:37] 76561199108250772: ESP: Clearing ESP
+[COT 2024-1M-6D 22:21:35] 76561199108250772: Spawned Entity Barrel (Barrel_Green<caa8bf50>, 200000, 1300, 512) at <6355.358398, 3.019282, 5727.535645>
+[COT 2024-1M-6D 22:21:39] 76561199108250772: Spawned Entity Barrel (Barrel_Red<caa864c0>, 200000, 1300, 512) at <6354.481445, 3.019282, 5728.095703>
+[COT 2024-1M-6D 22:21:43] 76561199108250772: Spawned Entity Barrel (Barrel_Red<caa86ed0>, 0, 1300, 512) at <6353.894043, 3.019282, 5728.601074>
+[COT 2024-1M-6D 22:24:19] 76561199108250772: Healed [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-1M-6D 22:24:44] 76561199108250772: Spawned Entity 4-Dial Combination Lock (CombinationLock4<c5122c60>, 100, 1500, 0) at <6351.704590, 3.019282, 5732.323730>
+[COT 2024-1M-6D 22:25:51] 76561199108250772: Spawned Entity Fence Kit (FenceKit<d3e6b0d0>, 100, 200, 0) at <6344.250000, 2.483009, 5737.190430>
+[COT 2024-1M-6D 22:25:52] 76561199108250772: Spawned Entity Fence Kit (FenceKit<d3e6f3c0>, 100, 200, 0) at <6344.192383, 2.628356, 5737.209961>
+[COT 2024-1M-6D 22:26:45] 76561199108250772: ESP: Viewing ESP
+[COT 2024-1M-6D 22:26:49] 76561199108250772: ESP target=Fence<b56bbe00> action=built part=base required_materials=false
+[COT 2024-1M-6D 22:26:51] 76561199108250772: ESP target=Fence<b56bbe00> action=built part=wall_base_down required_materials=false
+[COT 2024-1M-6D 22:26:54] 76561199108250772: ESP target=Fence<b56bbe00> action=built part=wall_wood_down required_materials=false
+[COT 2024-1M-6D 22:26:56] 76561199108250772: ESP target=Fence<b56bbe00> action=built part=wall_base_up required_materials=false
+[COT 2024-1M-6D 22:26:58] 76561199108250772: ESP target=Fence<b56bbe00> action=built part=wall_wood_up required_materials=false
+[COT 2024-1M-6D 22:27:3s] 76561199108250772: ESP target=Fence<b56bbe00> action=built part=wall_platform required_materials=false
+[COT 2024-1M-6D 22:27:4s] 76561199108250772: ESP target=Fence<b56bbe00> action=dismantle part=wall_platform
+[COT 2024-1M-6D 22:27:6s] 76561199108250772: ESP target=Fence<b56bbe00> action=built part=wall_platform required_materials=false
+[COT 2024-1M-6D 22:27:7s] 76561199108250772: ESP target=Fence<b56bbe00> action=dismantle part=wall_platform
+[COT 2024-1M-6D 22:27:47] 76561199108250772: ESP target=Fence<b56bbe00> action=built part=wall_gate required_materials=false
+[COT 2024-1M-6D 22:28:1s] 76561199108250772: ESP target=Fence<b56a71f0> action=built part=base required_materials=false
+[COT 2024-1M-6D 22:28:3s] 76561199108250772: ESP target=Fence<b56a71f0> action=built part=wall_base_down required_materials=false
+[COT 2024-1M-6D 22:28:5s] 76561199108250772: ESP target=Fence<b56a71f0> action=built part=wall_wood_down required_materials=false
+[COT 2024-1M-6D 22:28:6s] 76561199108250772: ESP target=Fence<b56a71f0> action=built part=wall_base_up required_materials=false
+[COT 2024-1M-6D 22:28:7s] 76561199108250772: ESP target=Fence<b56a71f0> action=built part=wall_gate required_materials=false
+[COT 2024-1M-6D 22:28:10] 76561199108250772: ESP target=Fence<b56a71f0> action=built part=wall_wood_up required_materials=false
+[COT 2024-1M-6D 22:28:18] 76561199108250772: ESP target=Fence<b56a71f0> action=dismantle part=wall_gate
+[COT 2024-1M-6D 22:28:22] 76561199108250772: ESP: Clearing ESP
+[COT 2024-1M-6D 22:28:47] 76561199108250772: ESP: Viewing ESP
+[COT 2024-1M-6D 22:28:50] 76561199108250772: ESP target=Fence<d8447d40> action=built part=base required_materials=false
+[COT 2024-1M-6D 22:28:51] 76561199108250772: ESP target=Fence<d8447d40> action=built part=wall_base_down required_materials=false
+[COT 2024-1M-6D 22:28:52] 76561199108250772: ESP target=Fence<d8447d40> action=built part=wall_wood_down required_materials=false
+[COT 2024-1M-6D 22:28:54] 76561199108250772: ESP target=Fence<d8447d40> action=built part=wall_base_up required_materials=false
+[COT 2024-1M-6D 22:28:56] 76561199108250772: ESP target=Fence<d8447d40> action=built part=wall_wood_up required_materials=false
+[COT 2024-1M-6D 22:29:8s] 76561199108250772: ESP target=Fence:17402 position=<6343.098145, 2.487562, 5737.242676> action=delete
+[COT 2024-1M-6D 22:29:10] 76561199108250772: ESP: Clearing ESP
+[COT 2024-1M-6D 22:30:15] 76561199108250772: ESP: Viewing ESP
+[COT 2024-1M-6D 22:30:20] 76561199108250772: ESP target=Fence<db86bd90> action=built part=base required_materials=false
+[COT 2024-1M-6D 22:30:22] 76561199108250772: ESP target=Fence<db86bd90> action=built part=wall_base_down required_materials=false
+[COT 2024-1M-6D 22:30:23] 76561199108250772: ESP target=Fence<db86bd90> action=built part=wall_wood_down required_materials=false
+[COT 2024-1M-6D 22:30:24] 76561199108250772: ESP target=Fence<db86bd90> action=built part=wall_base_up required_materials=false
+[COT 2024-1M-6D 22:30:25] 76561199108250772: ESP target=Fence<db86bd90> action=built part=wall_gate required_materials=false
+[COT 2024-1M-6D 22:30:27] 76561199108250772: ESP target=Fence<db86bd90> action=built part=wall_wood_up required_materials=false
+[COT 2024-1M-6D 22:30:30] 76561199108250772: ESP: Clearing ESP
+[COT 2024-1M-6D 22:30:49] 76561199108250772: Spawned Entity 4-Dial Combination Lock (CombinationLock4<d678eac0>, 100, 1500, 0) at <6344.811035, 2.480758, 5735.704102>
+[COT 2024-1M-6D 22:31:14] 76561199108250772: Spawned Entity Paper (Paper<c73d6b80>, 10, 15, 0) at <6350.942383, 3.019282, 5733.129395>
+[COT 2024-1M-6D 22:31:25] 76561199108250772: Spawned Entity Pen (Pen_Red<c73fcf80>, 4, 10, 0) at <6350.930664, 3.091614, 5733.145508>
+[COT 2024-1M-6D 22:34:14] 76561199108250772: Entered the Free Camera
+[COT 2024-1M-6D 22:34:17] 76561199108250772: Left the Free Camera
+[COT 2024-1M-6D 22:34:36] 76561199108250772: ESP: Viewing ESP
+[COT 2024-1M-6D 22:34:39] 76561199108250772: ESP target=Barrel_Red:16858 position=<6353.894043, 3.010481, 5728.601074> action=delete
+[COT 2024-1M-6D 22:34:42] 76561199108250772: ESP: Clearing ESP
+[COT 2024-1M-6D 22:35:12] 76561199108250772: Spawned Entity Barrel (Barrel_Red<dcd2b2f0>, 200000, 1300, 32768) at <6353.842285, 3.019283, 5728.788086>
+[COT 2024-1M-6D 22:35:30] 76561199108250772: Spawned Entity Alcoholic Tincture (DisinfectantAlcohol<caa82860>, 200, 30, 0) at <6353.782715, 3.019282, 5729.463867>
+[COT 2024-1M-6D 22:35:30] 76561199108250772: Spawned Entity Alcoholic Tincture (DisinfectantAlcohol<caaa7000>, 200, 30, 0) at <6353.807129, 3.184900, 5729.511230>
+[COT 2024-1M-6D 22:35:31] 76561199108250772: Spawned Entity Alcoholic Tincture (DisinfectantAlcohol<db888c70>, 200, 30, 0) at <6353.833008, 3.363396, 5729.562500>
+[COT 2024-1M-6D 22:35:38] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<d36c6ca0>, 200, 100, 0) at <6353.857910, 3.534021, 5729.611816>
+[COT 2024-1M-6D 22:35:39] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<d36c7630>, 200, 100, 0) at <6353.868164, 3.604699, 5729.631836>
+[COT 2024-1M-6D 22:35:39] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<d36d0f30>, 200, 100, 0) at <6353.878906, 3.675378, 5729.652344>
+[COT 2024-1M-6D 22:35:39] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<d36ce8f0>, 200, 100, 0) at <6353.889160, 3.745602, 5729.672363>
+[COT 2024-1M-6D 22:35:46] 76561199108250772: Spawned Entity #syb_topoizomeraza_name (InjectorBase<d36d05a0>, 200, 100, 0) at <6354.098145, 3.019282, 5729.243652>
+[COT 2024-1M-6D 22:35:46] 76561199108250772: Spawned Entity #syb_topoizomeraza_name (InjectorBase<d36cfc10>, 200, 100, 0) at <6354.098145, 3.090059, 5729.266602>
+[COT 2024-1M-6D 22:35:46] 76561199108250772: Spawned Entity #syb_topoizomeraza_name (InjectorBase<d36d5bb0>, 200, 100, 0) at <6354.098145, 3.160738, 5729.289063>
+[COT 2024-1M-6D 22:35:53] 76561199108250772: Spawned Entity #syb_tetracycline_name (TabletsBase<d3d2b0d0>, 10, 50, 0) at <6354.289063, 3.019282, 5729.164551>
+[COT 2024-1M-6D 22:35:54] 76561199108250772: Spawned Entity #syb_tetracycline_name (TabletsBase<d3d164c0>, 10, 50, 0) at <6354.282715, 3.104364, 5729.192871>
+[COT 2024-1M-6D 22:35:54] 76561199108250772: Spawned Entity #syb_tetracycline_name (TabletsBase<cae982b0>, 10, 50, 0) at <6354.275879, 3.189447, 5729.221191>
+[COT 2024-1M-6D 22:35:55] 76561199108250772: Spawned Entity #syb_tetracycline_name (TabletsBase<ccb400e0>, 10, 50, 0) at <6354.270508, 3.254924, 5729.243164>
+[COT 2024-1M-6D 22:35:55] 76561199108250772: Spawned Entity #syb_tetracycline_name (TabletsBase<b3739c70>, 10, 50, 0) at <6354.264160, 3.340006, 5729.271484>
+[COT 2024-1M-6D 22:36:12] 76561199108250772: Spawned Entity Rag (MouthRag<b5bfcca0>, 10, 30, 0) at <6354.258789, 3.405483, 5729.293457>
+[COT 2024-1M-6D 22:36:18] 76561199108250772: Spawned Entity Leather Vest (LeatherStorageVest_Brown<b5c00f90>, 10, 200, 0) at <6354.633301, 3.019282, 5729.051758>
+[COT 2024-1M-6D 22:36:20] 76561199108250772: Spawned Entity Layered Shirt (Layered_Shirt_Base<d01198b0>, 10, 110, 0) at <6354.597168, 3.176748, 5729.110840>
+[COT 2024-1M-6D 22:37:21] 76561199108250772: Spawned Entity Campfire (FBF_FireplaceIgnited<21fb1190>, 100, 100, 0) at <6357.610352, 3.019282, 5732.489258>
+[COT 2024-1M-6D 22:37:43] 76561199108250772: ESP: Viewing ESP
+[COT 2024-1M-6D 22:37:45] 76561199108250772: ESP: Clearing ESP
+[COT 2024-1M-6D 22:37:46] 76561199108250772: ESP: Viewing ESP
+[COT 2024-1M-6D 22:37:48] 76561199108250772: ESP target=FBF_FireplaceIgnited:5905 position=<6357.610352, 3.022154, 5732.489258> action=delete
+[COT 2024-1M-6D 22:37:53] 76561199108250772: ESP: Clearing ESP
+[COT 2024-1M-6D 22:38:22] 76561199108250772: Spawned Entity Lighter (PetrolLighter<d7920ca0>, 20, 20, 0) at <6356.993164, 3.019282, 5731.519043>
+[COT 2024-1M-6D 22:38:30] 76561199108250772: Spawned Entity Short Stick (WoodenStick<d7920310>, 5, 50, 0) at <6356.621094, 3.019282, 5732.137695>
+[COT 2024-1M-6D 22:38:35] 76561199108250772: Spawned Entity Light Bark (Bark_Birch<d16a8180>, 8, 25, 0) at <6356.612793, 3.066497, 5732.097656>
+[COT 2024-1M-6D 22:39:5s] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89b1bb0>, 1, 100, 0) at <6356.252441, 3.148039, 5732.255859>
+[COT 2024-1M-6D 22:39:5s] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89b41f0>, 1, 100, 0) at <6356.243164, 3.267708, 5732.177734>
+[COT 2024-1M-6D 22:39:6s] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89be480>, 1, 100, 0) at <6356.233887, 3.392728, 5732.095703>
+[COT 2024-1M-6D 22:39:8s] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89bb4b0>, 1, 100, 0) at <6356.895996, 3.127680, 5731.915527>
+[COT 2024-1M-6D 22:39:9s] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89bee10>, 1, 100, 0) at <6356.816895, 3.232890, 5731.851074>
+[COT 2024-1M-6D 22:39:9s] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89c1450>, 1, 100, 0) at <6356.736816, 3.339331, 5731.785645>
+[COT 2024-1M-6D 22:39:11] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89c2770>, 1, 100, 0) at <6356.778320, 3.051068, 5731.684082>
+[COT 2024-1M-6D 22:39:11] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89c0130>, 1, 100, 0) at <6356.708008, 3.178003, 5731.639648>
+[COT 2024-1M-6D 22:39:11] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89bf7a0>, 1, 100, 0) at <6356.638184, 3.303196, 5731.595703>
+[COT 2024-1M-6D 22:39:14] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89bbe40>, 1, 100, 0) at <6356.636230, 3.498471, 5731.979004>
+[COT 2024-1M-6D 22:39:14] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89cad50>, 1, 100, 0) at <6356.572266, 3.578128, 5731.895508>
+[COT 2024-1M-6D 22:39:14] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89c4420>, 1, 100, 0) at <6356.507813, 3.659099, 5731.811523>
+[COT 2024-1M-6D 22:39:16] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89c90a0>, 1, 100, 0) at <6356.357422, 3.602873, 5732.171387>
+[COT 2024-1M-6D 22:39:17] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89cd390>, 1, 100, 0) at <6356.335938, 3.659961, 5732.088379>
+[COT 2024-1M-6D 22:39:17] 76561199108250772: Spawned Entity Small Stone (SmallStone<b89ca3c0>, 1, 100, 0) at <6356.306641, 3.735604, 5731.978516>
+[COT 2024-1M-6D 22:39:56] 76561199108250772: Spawned Entity Large Stone (Stone<d5f25790>, 1, 200, 0) at <6358.345703, 3.025806, 5731.624512>
+[COT 2024-1M-6D 22:39:57] 76561199108250772: Spawned Entity Large Stone (Stone<d5f24470>, 1, 200, 0) at <6358.275879, 3.161333, 5731.570801>
+[COT 2024-1M-6D 22:39:58] 76561199108250772: Spawned Entity Large Stone (Stone<d5f006b0>, 1, 200, 0) at <6358.275879, 3.161333, 5731.570801>
+[COT 2024-1M-6D 22:39:58] 76561199108250772: Spawned Entity Large Stone (Stone<d5f03680>, 1, 200, 0) at <6358.206055, 3.296860, 5731.517090>
+[COT 2024-1M-6D 22:39:58] 76561199108250772: Spawned Entity Large Stone (Stone<d5f01040>, 1, 200, 0) at <6358.206055, 3.296860, 5731.517090>
+[COT 2024-1M-6D 22:39:58] 76561199108250772: Spawned Entity Large Stone (Stone<d5f08c90>, 1, 200, 0) at <6358.136719, 3.432387, 5731.464355>
+[COT 2024-1M-6D 22:39:58] 76561199108250772: Spawned Entity Large Stone (Stone<d5f049a0>, 1, 200, 0) at <6358.066895, 3.567913, 5731.410645>
+[COT 2024-1M-6D 22:39:58] 76561199108250772: Spawned Entity Large Stone (Stone<d5f05330>, 1, 200, 0) at <6358.066895, 3.567913, 5731.410645>
+[COT 2024-1M-6D 22:39:58] 76561199108250772: Spawned Entity Large Stone (Stone<d5f15ef0>, 1, 200, 0) at <6357.997070, 3.703440, 5731.357422>
+[COT 2024-1M-6D 22:39:59] 76561199108250772: Spawned Entity Large Stone (Stone<d5f18530>, 1, 200, 0) at <6357.997070, 3.703440, 5731.357422>
+[COT 2024-1M-6D 22:39:59] 76561199108250772: Spawned Entity Large Stone (Stone<d5f19850>, 1, 200, 0) at <6357.927246, 3.838967, 5731.303711>
+[COT 2024-1M-6D 22:39:59] 76561199108250772: Spawned Entity Large Stone (Stone<d5f15560>, 1, 200, 0) at <6357.927246, 3.838967, 5731.303711>
+[COT 2024-1M-6D 22:39:59] 76561199108250772: Spawned Entity Large Stone (Stone<d5f12f20>, 1, 200, 0) at <6357.856934, 3.974494, 5731.250000>
+[COT 2024-1M-6D 22:39:59] 76561199108250772: Spawned Entity Large Stone (Stone<d5f138b0>, 1, 200, 0) at <6357.788086, 4.110021, 5731.197266>
+[COT 2024-1M-6D 22:40:24] 76561199108250772: Spawned Entity Large Stone (Stone<d5f21e30>, 1, 200, 0) at <6358.237305, 3.019282, 5731.596680>
+[COT 2024-1M-6D 22:40:25] 76561199108250772: Spawned Entity Large Stone (Stone<d5f28760>, 1, 200, 0) at <6358.179688, 3.154809, 5731.562988>
+[COT 2024-1M-6D 22:42:53] 76561199108250772: Spawned Entity Campfire Tripod (Tripod<c7b75210>, 100, 500, 0) at <6356.612305, 3.019282, 5730.999512>
+[COT 2024-1M-6D 22:43:15] 76561199108250772: Spawned Entity Fishing Rod (FishingRod<dbb94680>, 100, 150, 0) at <6355.234375, 3.019282, 5728.957520>
+[COT 2024-1M-6D 22:43:36] 76561199108250772: Spawned Entity Bone Fishing Hook (BoneHook<ce304d10>, 100, 10, 0) at <6354.944824, 3.019282, 5728.821777>
+[COT 2024-1M-6D 22:43:37] 76561199108250772: Spawned Entity Bone Fishing Hook (BoneHook<ce30d2f0>, 100, 10, 0) at <6354.944824, 3.022151, 5728.822754>
+[COT 2024-1M-6D 22:43:37] 76561199108250772: Spawned Entity Bone Fishing Hook (BoneHook<ce30dc80>, 100, 10, 0) at <6354.944336, 3.024977, 5728.823242>
+[COT 2024-1M-6D 22:43:38] 76561199108250772: Spawned Entity Bone Fishing Hook (BoneHook<ce30e610>, 100, 10, 0) at <6354.944336, 3.027803, 5728.823730>
+[COT 2024-1M-6D 22:43:39] 76561199108250772: Spawned Entity Bone Fishing Hook (BoneHook<ce30efa0>, 100, 10, 0) at <6354.943848, 3.030673, 5728.824219>
+[COT 2024-1M-6D 22:43:39] 76561199108250772: Spawned Entity Bone Fishing Hook (BoneHook<ce2d2040>, 100, 10, 0) at <6354.943848, 3.030673, 5728.824219>
+[COT 2024-1M-6D 22:43:40] 76561199108250772: Spawned Entity Bone Fishing Hook (BoneHook<ce2d9300>, 100, 10, 0) at <6354.943848, 3.031615, 5728.824707>
+[COT 2024-1M-6D 22:43:40] 76561199108250772: Spawned Entity Bone Fishing Hook (BoneHook<ce2d29d0>, 100, 10, 0) at <6354.943359, 3.034441, 5728.825195>
+[COT 2024-1M-6D 22:43:40] 76561199108250772: Spawned Entity Bone Fishing Hook (BoneHook<ce2d3cf0>, 100, 10, 0) at <6354.943359, 3.037311, 5728.825684>
+[COT 2024-1M-6D 22:43:41] 76561199108250772: Spawned Entity Bone Fishing Hook (BoneHook<ce2d6330>, 100, 10, 0) at <6354.942871, 3.038698, 5728.825684>
+[COT 2024-1M-6D 22:44:12] 76561199108250772: Spawned Entity Jest's Wonderbread (wonderbread_mung<bf927610>, 120, 100, 0) at <6355.062012, 3.019282, 5729.189453>
+[COT 2024-1M-6D 22:44:12] 76561199108250772: Spawned Entity Jest's Wonderbread (wonderbread_mung<b3398610>, 120, 100, 0) at <6355.054688, 3.219282, 5729.229980>
+[COT 2024-1M-6D 22:44:13] 76561199108250772: Spawned Entity Jest's Wonderbread (wonderbread_mung<b339eab0>, 120, 100, 0) at <6355.048340, 3.419282, 5729.270996>
+[COT 2024-1M-6D 22:44:13] 76561199108250772: Spawned Entity Jest's Wonderbread (wonderbread_mung<cae9a0e0>, 120, 100, 0) at <6355.041992, 3.619282, 5729.311523>
+[COT 2024-1M-6D 22:44:45] 76561199108250772: Spawned Entity Plastic Bottle (WaterBottle<d7b906f0>, 1000, 50, 512) at <6355.356934, 3.019282, 5729.189941>
+[COT 2024-1M-6D 22:44:45] 76561199108250772: Spawned Entity Plastic Bottle (WaterBottle<d7b92f30>, 1000, 50, 512) at <6355.318848, 3.322556, 5729.231445>
+[COT 2024-1M-6D 22:44:46] 76561199108250772: Spawned Entity Plastic Bottle (WaterBottle<d7ba2ac0>, 1000, 50, 512) at <6355.280762, 3.626410, 5729.272461>
+[COT 2024-1M-6D 22:45:48] 76561199108250772: Spawned Entity Jerrycan (CanisterGasoline<b918b720>, 20000, 300, 4096) at <6355.737793, 3.019282, 5728.894531>

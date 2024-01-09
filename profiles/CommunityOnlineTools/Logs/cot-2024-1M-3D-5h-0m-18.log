@@ -1,0 +1,28 @@
+[COT 2024-1M-3D 5h:3m:3s] 76561199108250772: ESP: Viewing ESP
+[COT 2024-1M-3D 5h:3m:15] 76561199108250772: ESP index=0 target=ZmbM_Jacket_brown:548 position=<2962.732666, 20.200218, 4943.460938> action=delete
+[COT 2024-1M-3D 5h:3m:15] 76561199108250772: ESP index=1 target=ZmbF_MilkMaidOld_Grey:545 position=<2930.497803, 20.219004, 4927.836914> action=delete
+[COT 2024-1M-3D 5h:3m:15] 76561199108250772: ESP index=2 target=ZmbM_Jacket_khaki:543 position=<2909.212646, 20.219999, 4947.796875> action=delete
+[COT 2024-1M-3D 5h:3m:15] 76561199108250772: ESP index=3 target=ZmbM_Jacket_khaki:546 position=<2951.396973, 23.127596, 4869.687012> action=delete
+[COT 2024-1M-3D 5h:3m:15] 76561199108250772: ESP index=4 target=ZmbM_Jacket_brown:544 position=<2941.118896, 20.061531, 4950.627930> action=delete
+[COT 2024-1M-3D 5h:3m:15] 76561199108250772: ESP index=5 target=ZmbM_FarmerFat_Green:547 position=<2944.447021, 22.006186, 4905.504883> action=delete
+[COT 2024-1M-3D 5h:3m:15] 76561199108250772: ESP action=delete_all count=6 attempted=6
+[COT 2024-1M-3D 5h:3m:33] 76561199108250772: Repaired Transport [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-1M-3D 5h:4m:4s] 76561199108250772: Spawned Entity M3S Dual Wheel (Truck_01_WheelDouble<bd5ba8c0>, 100, 200, 0) at <2944.158447, 20.011719, 4948.088867>
+[COT 2024-1M-3D 5h:4m:5s] 76561199108250772: Spawned Entity M3S Dual Wheel (Truck_01_WheelDouble<bd5bbbe0>, 100, 200, 0) at <2943.708008, 20.416897, 4947.869629>
+[COT 2024-1M-3D 5h:4m:35] 76561199108250772: ESP: Clearing ESP
+[COT 2024-1M-3D 5h:4m:36] 76561199108250772: ESP: Viewing ESP
+[COT 2024-1M-3D 5h:4m:47] 76561199108250772: ESP index=0 target=Animal_chiemsee_scorpion:287 position=<2947.485352, 20.050001, 4945.549805> action=delete
+[COT 2024-1M-3D 5h:4m:47] 76561199108250772: ESP index=1 target=Animal_chiemsee_scorpion:285 position=<2948.555908, 19.798555, 4966.899902> action=delete
+[COT 2024-1M-3D 5h:4m:47] 76561199108250772: ESP index=2 target=Animal_chiemsee_scorpion:286 position=<2945.273926, 19.282373, 4972.896973> action=delete
+[COT 2024-1M-3D 5h:4m:47] 76561199108250772: ESP index=3 target=Animal_chiemsee_scorpion:288 position=<2948.956055, 20.050001, 4946.270996> action=delete
+[COT 2024-1M-3D 5h:4m:47] 76561199108250772: ESP action=delete_all count=4 attempted=4
+[COT 2024-1M-3D 5h:5m:4s] 76561199108250772: Spawned Entity Truck Battery (TruckBattery<bdd088e0>, 50, 240, 0) at <2947.798828, 20.010000, 4947.194336>
+[COT 2024-1M-3D 5h:5m:43] 76561199108250772: Teleported to position <9428.052734, 4.752158, 8414.993164>
+[COT 2024-1M-3D 5h:6m:38] 76561199108250772: Entered the Free Camera
+[COT 2024-1M-3D 5h:7m:10] 76561199108250772: Left the Free Camera
+[COT 2024-1M-3D 5h:12:27] 76561199108250772: Set the date to 2023/8/23 12:0
+[COT 2024-1M-3D 5h:12:28] 76561199108250772: Set rain to 0 0 0
+[COT 2024-1M-3D 5h:12:28] 76561199108250772: Set storm to 0 0.8 4000
+[COT 2024-1M-3D 5h:12:28] 76561199108250772: Set fog to 0 0 0
+[COT 2024-1M-3D 5h:12:28] 76561199108250772: Set overcast to 0 0 0
+[COT 2024-1M-3D 5h:12:28] 76561199108250772: Set wind to 0 0 1

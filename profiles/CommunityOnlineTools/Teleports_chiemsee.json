@@ -1,0 +1,654 @@
+{
+    "Types": [
+        "",
+        "Camp",
+        "FlatAreaLocal",
+        "Hill",
+        "Local",
+        "Marine",
+        "Ruin",
+        "ViewPoint"
+    ],
+    "Locations": [
+        {
+            "Type": "Local",
+            "Name": "Aisching",
+            "Position": [
+                8254.9404296875,
+                0.0,
+                7225.35986328125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "ViewPoint",
+            "Name": "Alm",
+            "Position": [
+                1415.27001953125,
+                0.0,
+                1755.1099853515626
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Ruin",
+            "Name": "AltSchwanstein",
+            "Position": [
+                3944.300048828125,
+                0.0,
+                1277.8299560546876
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Alterhof",
+            "Position": [
+                2017.9100341796876,
+                0.0,
+                4493.97021484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Antwort",
+            "Position": [
+                2035.280029296875,
+                0.0,
+                5216.31005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Atomkraftwerk",
+            "Position": [
+                3052.340087890625,
+                0.0,
+                8411.48046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Bachham",
+            "Position": [
+                1137.5799560546876,
+                0.0,
+                2560.409912109375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Bad Endorf",
+            "Position": [
+                2286.050048828125,
+                0.0,
+                8740.919921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Barnsee",
+            "Position": [
+                1905.68994140625,
+                0.0,
+                323.07000732421877
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Baustelle",
+            "Position": [
+                4037.75,
+                0.0,
+                5118.18994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Breitbrunn",
+            "Position": [
+                6941.43994140625,
+                0.0,
+                6487.4501953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Ruin",
+            "Name": "Burg Teisenham",
+            "Position": [
+                2550.43994140625,
+                0.0,
+                9864.83984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Burgensdorf",
+            "Position": [
+                1810.3499755859376,
+                0.0,
+                3524.75
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Camp Refugi",
+            "Position": [
+                4673.2998046875,
+                0.0,
+                5237.18994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Chiemsee",
+            "Position": [
+                8895.9697265625,
+                0.0,
+                2430.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "FlatAreaLocal",
+            "Name": "ChiemseeOil",
+            "Position": [
+                3386.52001953125,
+                0.0,
+                1337.2900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Eggstatt",
+            "Position": [
+                5289.56982421875,
+                0.0,
+                8429.5400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Ernstdorf",
+            "Position": [
+                4707.2998046875,
+                0.0,
+                988.77001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Eschenauer See",
+            "Position": [
+                5006.2001953125,
+                0.0,
+                9431.76953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Fraueninsel",
+            "Position": [
+                8915.9296875,
+                0.0,
+                4873.08984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Gollenhausen",
+            "Position": [
+                9326.240234375,
+                0.0,
+                8830.740234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Groser Hof",
+            "Position": [
+                3243.72998046875,
+                0.0,
+                3931.1201171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Grundloser See",
+            "Position": [
+                8969.0,
+                0.0,
+                8031.4501953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Gstadt Freizeitpark",
+            "Position": [
+                8050.66015625,
+                0.0,
+                6039.77978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Gstadt Industrie",
+            "Position": [
+                8214.2802734375,
+                0.0,
+                6325.22998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Hartsee",
+            "Position": [
+                2978.139892578125,
+                0.0,
+                7898.3798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Hemhof",
+            "Position": [
+                3347.050048828125,
+                0.0,
+                8689.76953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Herreninsel",
+            "Position": [
+                6783.169921875,
+                0.0,
+                3396.330078125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "HerrnChiemsee",
+            "Position": [
+                7066.27001953125,
+                0.0,
+                3508.239990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Hochstatt",
+            "Position": [
+                2571.1298828125,
+                0.0,
+                5930.47021484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Hofstatter See",
+            "Position": [
+                881.3300170898438,
+                0.0,
+                2468.97998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Hub",
+            "Position": [
+                2188.530029296875,
+                0.0,
+                540.4600219726563
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Jolling",
+            "Position": [
+                1120.300048828125,
+                0.0,
+                9485.7001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Kieswerk",
+            "Position": [
+                2909.409912109375,
+                0.0,
+                4924.08984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Kleiner Hof",
+            "Position": [
+                2319.3798828125,
+                0.0,
+                4618.72021484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Krater",
+            "Position": [
+                7263.259765625,
+                0.0,
+                9619.0595703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Krautinsel",
+            "Position": [
+                8210.4697265625,
+                0.0,
+                4370.83984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Loiberting",
+            "Position": [
+                6638.56005859375,
+                0.0,
+                6942.89013671875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Mauerkirchen",
+            "Position": [
+                3012.969970703125,
+                0.0,
+                4260.66015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Milcamp",
+            "Position": [
+                2428.5400390625,
+                0.0,
+                7229.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Mine",
+            "Position": [
+                8765.7197265625,
+                0.0,
+                8759.900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Mine",
+            "Position": [
+                8765.7197265625,
+                0.0,
+                8759.900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Mittermuhle",
+            "Position": [
+                7132.330078125,
+                0.0,
+                5379.02001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "NeviHof",
+            "Position": [
+                5932.91015625,
+                0.0,
+                7762.56005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Oberleiten",
+            "Position": [
+                6419.43017578125,
+                0.0,
+                5937.52001953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Obermaier hof",
+            "Position": [
+                3070.550048828125,
+                0.0,
+                2994.030029296875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Obing",
+            "Position": [
+                6343.64013671875,
+                0.0,
+                9256.23046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Osternach",
+            "Position": [
+                3918.68994140625,
+                0.0,
+                2671.050048828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Pelham",
+            "Position": [
+                1916.949951171875,
+                0.0,
+                8267.849609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Prien",
+            "Position": [
+                4621.72998046875,
+                0.0,
+                1818.8499755859376
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "PrienIndustrie",
+            "Position": [
+                4478.83984375,
+                0.0,
+                2385.330078125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Rebellen Camp",
+            "Position": [
+                998.8400268554688,
+                0.0,
+                2373.669921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Rimsting",
+            "Position": [
+                3248.639892578125,
+                0.0,
+                5336.9501953125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Sagewerk",
+            "Position": [
+                4251.81005859375,
+                0.0,
+                6708.52978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Schlachtfeld",
+            "Position": [
+                3231.110107421875,
+                0.0,
+                1654.4300537109376
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "ViewPoint",
+            "Name": "Serpentinen str",
+            "Position": [
+                3628.669921875,
+                0.0,
+                634.7999877929688
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Simssee",
+            "Position": [
+                1063.800048828125,
+                0.0,
+                1372.469970703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Soll",
+            "Position": [
+                8416.990234375,
+                0.0,
+                9849.759765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Ruin",
+            "Name": "Stein",
+            "Position": [
+                4636.56982421875,
+                0.0,
+                7636.22021484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "TedValley",
+            "Position": [
+                1066.719970703125,
+                0.0,
+                1666.3699951171876
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Untermaier hof",
+            "Position": [
+                2733.580078125,
+                0.0,
+                3086.10009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Urschalling",
+            "Position": [
+                2233.1298828125,
+                0.0,
+                2630.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "WeitmoosIndustrie",
+            "Position": [
+                6189.8798828125,
+                0.0,
+                9720.0595703125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Wendelstein",
+            "Position": [
+                3394.56005859375,
+                0.0,
+                2422.489990234375
+            ],
+            "Radius": 4.0
+        }
+    ]
+}

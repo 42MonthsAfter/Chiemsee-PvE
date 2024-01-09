@@ -1,0 +1,41 @@
+************************** 2023-10-28T16:00:27+00:00 **************************
+2023-10-28T16:00:31+00:00 | [INFO	] Server up (GameLabs v1.910)
+2023-10-28T16:00:31+00:00 | [INFO	] Experimental speed check is enabled
+2023-10-28T16:27:50+00:00 | [WARN	] [Spawn] Spawning M4A1_Black (x0) at 0x0000000050c41448 {<2982.45,9.51478,5549.91>}
+2023-10-28T17:00:35+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-28T17:00:35+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-28T17:00:35+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-28T17:37:50+00:00 | [WARN	] [Teleport] SurvivorBase<db257240> position=0x000000004e614c60 {<4022.21,4.88221,5175.23>}
+2023-10-28T17:38:10+00:00 | [WARN	] [Teleport] SurvivorBase<db257240> position=0x000000004e614c60 {<4019.1,5.34006,5186.62>}
+2023-10-28T17:38:25+00:00 | [WARN	] [Teleport] SurvivorBase<db257240> position=0x000000004e614c60 {<3976.1,-6.32074,5240.63>}
+2023-10-28T17:38:40+00:00 | [WARN	] [Teleport] SurvivorBase<db257240> position=0x000000004e614c60 {<3936.1,1.54758,5165.62>}
+2023-10-28T17:40:15+00:00 | [WARN	] [Spawn] Spawning TacticalBaconCan_Opened (x1) for SurvivorBase<db257240>
+2023-10-28T17:43:40+00:00 | [WARN	] [Spawn] Spawning WaterBottle (x1) for SurvivorBase<db257240>
+2023-10-28T17:44:20+00:00 | [WARN	] [Spawn] Spawning CZ527 (x1) for SurvivorBase<db257240>
+2023-10-28T17:44:30+00:00 | [WARN	] [Spawn] Spawning Mag_CZ527_5rnd (x1) for SurvivorBase<db257240>
+2023-10-28T17:44:45+00:00 | [WARN	] [Spawn] Spawning Ammo_762x39 (x1) for SurvivorBase<db257240>
+2023-10-28T17:45:25+00:00 | [WARN	] [Spawn] Spawning LargeGasCanister (x1) for SurvivorBase<db257240>
+2023-10-28T17:46:00+00:00 | [WARN	] [Spawn] Spawning PortableGasStove (x1) for SurvivorBase<db257240>
+2023-10-28T17:56:10+00:00 | [WARN	] [Spawn] Spawning DisinfectantAlcohol (x1) for SurvivorBase<db257240>
+2023-10-28T18:00:40+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-28T18:00:40+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-28T18:00:40+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-28T18:16:50+00:00 | [WARN	] [Spawn] Spawning CarWheel (x1) for SurvivorBase<db257240>
+2023-10-28T18:56:40+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-28T18:56:45+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-28T18:56:50+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-28T18:56:55+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-28T18:57:00+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-28T18:57:05+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-28T18:57:10+00:00 | [ERROR	] ServerPoll2 errorCode(8)
+2023-10-28T19:00:45+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-28T19:00:45+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-28T19:00:45+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-28T20:00:50+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-28T20:00:50+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-28T20:00:50+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-28T21:00:55+00:00 | [ERROR	] ServerPoll2 errorCode(5)
+2023-10-28T21:00:55+00:00 | [ERROR	] GameLabs API error, reauthenticating...
+2023-10-28T21:00:56+00:00 | [WARN	] RegisterAsync re-authorized
+2023-10-28T22:00:00+00:00 | [INFO	] (Reporter) Disabled
+2023-10-28T22:00:00+00:00 | [INFO	] (Core) Attempting graceful exit

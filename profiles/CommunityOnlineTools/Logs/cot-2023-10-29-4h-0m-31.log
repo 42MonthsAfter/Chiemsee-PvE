@@ -1,0 +1,23 @@
+[COT 2023-10-29 4h:2m:25] 76561199108250772: Set GodMode To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2023-10-29 4h:2m:26] 76561199108250772: Set cannot be targeted by AI to true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2023-10-29 4h:2m:26] 76561199108250772: Set UnlimitedStamina To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2023-10-29 4h:2m:27] 76561199108250772: Set UnlimitedAmmo To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2023-10-29 4h:3m:1s] 76561199108250772: Spawned vehicle Ada 4x4 (OffroadHatchback) at <6347.792480, 4.646338, 5937.310059>
+[COT 2023-10-29 4h:5m:23] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-29 4h:5m:25] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-29 4h:5m:26] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-29 4h:5m:33] 76561199108250772: ESP: Clearing ESP
+[COT 2023-10-29 4h:5m:34] 76561199108250772: ESP: Viewing ESP
+[COT 2023-10-29 4h:5m:48] 76561199108250772: ESP index=0 target=ZmbF_VillagerOld_White:0535 position=<6434.242676, 10.824694, 5979.889648> action=delete
+[COT 2023-10-29 4h:5m:48] 76561199108250772: ESP index=1 target=ZmbM_Jacket_grey:0533 position=<6493.432617, 8.791670, 6009.711914> action=delete
+[COT 2023-10-29 4h:5m:48] 76561199108250772: ESP index=2 target=ZmbF_VillagerOld_White:0534 position=<6443.759766, 14.788886, 6018.134766> action=delete
+[COT 2023-10-29 4h:5m:48] 76561199108250772: ESP index=3 target=ZmbF_PoliceWomanNormal:0521 position=<6343.216309, 7.071648, 6056.113281> action=delete
+[COT 2023-10-29 4h:5m:48] 76561199108250772: ESP index=4 target=ZmbM_PolicemanFat:0522 position=<6397.843750, 10.082330, 6037.703125> action=delete
+[COT 2023-10-29 4h:5m:48] 76561199108250772: ESP index=5 target=ZmbM_PatrolNormal_PautRev:0520 position=<6403.795898, 4.352408, 5948.980469> action=delete
+[COT 2023-10-29 4h:5m:48] 76561199108250772: ESP index=6 target=ZmbF_PoliceWomanNormal:0525 position=<6419.232910, 9.744609, 6020.041016> action=delete
+[COT 2023-10-29 4h:5m:48] 76561199108250772: ESP index=7 target=ZmbM_usSoldier_normal_Woodland:0518 position=<6351.918457, 4.182937, 5908.331055> action=delete
+[COT 2023-10-29 4h:5m:48] 76561199108250772: ESP action=delete_all count=8 attempted=8
+[COT 2023-10-29 4h:5m:53] 76561199108250772: ESP index=0 target=ZmbF_PoliceWomanNormal:0523 position=<6341.288574, 6.555427, 6049.767090> action=delete
+[COT 2023-10-29 4h:5m:53] 76561199108250772: ESP index=1 target=ZmbM_PolicemanSpecForce:0524 position=<6354.373535, 7.020000, 6002.442383> action=delete
+[COT 2023-10-29 4h:5m:53] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2023-10-29 4h:6m:52] 76561199108250772: ESP: Clearing ESP
