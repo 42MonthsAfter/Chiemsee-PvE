@@ -42,6 +42,7 @@
     "MAP": {
         "Show_Player_Marker": 0,
         "Custom_Player_Marker_Text": "",
+        "Show_Zones_In_VPPA_Teleport_Manager": 1,
         "Zones_Border_Color": {
             "R": 255.0,
             "G": 0.0,

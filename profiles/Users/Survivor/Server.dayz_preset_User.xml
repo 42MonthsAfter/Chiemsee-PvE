@@ -1013,6 +1013,15 @@
     <input name="UAToggleHood">
         <btn name="kT" />
     </input>
+    <input name="UATogglePoliceLights">
+        <btn name="kP" />
+    </input>
+    <input name="UAToggleNeonLights">
+        <btn name="k4" />
+    </input>
+    <input name="UAToggleFogLights">
+        <btn name="k5" />
+    </input>
     <input name="UACarLockToggle">
         <btn name="kU" />
     </input>
@@ -1030,6 +1039,9 @@
     </input>
     <input name="UAToggleSyberiaUsePDA">
         <btn name="kP" />
+    </input>
+    <input name="UATransportBeep">
+        <btn name="k2" />
     </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />

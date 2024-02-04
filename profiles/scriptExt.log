@@ -1,2 +1,5 @@
-01-09 09:59:39 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<a0dd51d0>
-01-09 09:59:39 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<c0021ec0>
+02-04 12:26:19 | Server | Debug | Connect | n/a | n/a | InvokeOnConnect:CustomMission<73d20c90>
+02-04 12:26:19 | Server | Debug | Connect | n/a | n/a | Player connected:SurvivorBase<84ef7d30>
+02-04 12:54:02 | Server | Debug | n/a | n/a | n/a | quantity before spill: 100
+02-04 12:54:02 | Server | Debug | n/a | n/a | n/a | spill_amount: 0
+02-04 12:54:02 | Server | Debug | n/a | n/a | n/a | quantity_new: 100
