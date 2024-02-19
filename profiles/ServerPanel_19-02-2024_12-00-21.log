@@ -1,0 +1,8 @@
+---------------------------------------------
+ServerPanel log started at 19.02.2024 12:00:21
+
+19.02.2024 12:00:21 [ServerPanelLogger]: INFO: Will try to create ServerPanel log file in $profile:
+19.02.2024 12:00:21 [ServerPanelConfig]: Reading Server Config
+19.02.2024 12:00:21 [ServerPanelConfig]: ConfigRequest
+19.02.2024 13:14:36 [ServerPanelI]: Jasper (yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI=) - Config sync
+19.02.2024 16:07:05 [ServerPanelI]: Sarco (pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) - Config sync

@@ -1,0 +1,1129 @@
+---------------------------------------------
+Log C:\Users\rylic\OneDrive\Documents\Chimsee-PvE\servers\Production\profiles\script_2024-02-19_12-00-12.log started at 19.02. 12:00:12
+
+SCRIPT       : Registered 345 temporary action enum(s), UAN==345
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,267": Possible variable name conflict 'player'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,267": Possible variable name conflict 'murderer'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,267": Possible variable name conflict 'weapon'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,267": Possible variable name conflict 'weaponNiceName'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,154": Possible variable name conflict 'initial'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,154": Possible variable name conflict 'interval'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,154": Possible variable name conflict 'added'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,154": Possible variable name conflict 'removed'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,245": Possible variable name conflict 'initial'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,245": Possible variable name conflict 'interval'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,245": Possible variable name conflict 'updated'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/*їьћ.rtm,29": Possible variable name conflict 'modId'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/*їьћ.rtm,29": Possible variable name conflict 'key'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,207": Possible variable name conflict 'status'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/3_Hooking/і?ѝЭё.wss,8": Possible variable name conflict 'uid'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/3_Hooking/і?ѝЭё.wss,8": Possible variable name conflict 'sessionKey'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/3_Hooking/і?ѝЭё.wss,8": Possible variable name conflict 'host'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/3_Hooking/і?ѝЭё.wss,8": Possible variable name conflict 'port'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/*їьћ.rtm,15": Possible variable name conflict 'modId'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/*їьћ.rtm,15": Possible variable name conflict 'key'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/*їьћ.rtm,15": Possible variable name conflict 'value'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,226": Possible variable name conflict 'responseType'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,226": Possible variable name conflict 'webhookUrl'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,264": Possible variable name conflict 'object'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,445": Possible variable name conflict 'operation'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,445": Possible variable name conflict 'key'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,445": Possible variable name conflict 'value'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,445": Possible variable name conflict 'expires'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вч*ўэџм.wsi,75": Possible variable name conflict 'debugEnabled'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,26": Possible variable name conflict '_reference'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,348": Possible variable name conflict 'player'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,348": Possible variable name conflict 'channel'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,348": Possible variable name conflict 'message'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,400": Possible variable name conflict 'items'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,364": Possible variable name conflict 'steam64'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,364": Possible variable name conflict 'position'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,107": Possible variable name conflict 'displayName'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,107": Possible variable name conflict 'description'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,107": Possible variable name conflict 'dataType'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/ЪЯШ?сспся.rvmat,62": Possible variable name conflict 'serverId'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/ЪЯШ?сспся.rvmat,62": Possible variable name conflict 'apiKey'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/ЪЯШ?сспся.rvmat,62": Possible variable name conflict 'baseUrl'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/ЪЯШ?сспся.rvmat,62": Possible variable name conflict 'storeUrl'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/ЪЯШ?сспся.rvmat,81": Possible variable name conflict 'authKey'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/*їьћ.rtm,61": Possible variable name conflict 'modId'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/*їьћ.rtm,61": Possible variable name conflict 'key'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/*їьћ.rtm,61": Possible variable name conflict 'value'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,514": Possible variable name conflict 'content'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/*їьћ.rtm,46": Possible variable name conflict 'modId'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/*їьћ.rtm,46": Possible variable name conflict 'key'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/*їьћ.rtm,46": Possible variable name conflict 'value'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,199": Possible variable name conflict 'initial'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,199": Possible variable name conflict 'interval'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,199": Possible variable name conflict 'added'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,199": Possible variable name conflict 'updated'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,199": Possible variable name conflict 'removed'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,5": Possible variable name conflict '_reference'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/*їьћ.rtm,77": Possible variable name conflict 'modId'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/ЪЯШ?сспся.rvmat,10": Possible variable name conflict 'status'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/ЪЯШ?сспся.rvmat,10": Possible variable name conflict 'error'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,315": Possible variable name conflict 'player'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,315": Possible variable name conflict 'item'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,315": Possible variable name conflict 'target'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,315": Possible variable name conflict 'action'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,41": Possible variable name conflict 'serverId'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,41": Possible variable name conflict 'apiKey'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,41": Possible variable name conflict 'flagReauth'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,47": Possible variable name conflict 'className'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,47": Possible variable name conflict 'icon'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,47": Possible variable name conflict '_reference'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,422": Possible variable name conflict 'operation'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,422": Possible variable name conflict 'key'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,422": Possible variable name conflict 'value'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,422": Possible variable name conflict 'expires'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,392": Possible variable name conflict 'className'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,392": Possible variable name conflict 'displayName'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,291": Possible variable name conflict 'player'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,291": Possible variable name conflict 'murderer'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,291": Possible variable name conflict 'weapon'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,291": Possible variable name conflict 'damage'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,291": Possible variable name conflict 'zone'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/ђлСХьїњ?Х.p3d,11": Possible variable name conflict 'modIdentifier'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/ђлСХьїњ?Х.p3d,11": Possible variable name conflict 'allowDebug'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/ђлСХьїњ?Х.p3d,11": Possible variable name conflict 'logrotate'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/ђлСХьїњ?Х.p3d,20": Possible variable name conflict 'allowDebug'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,332": Possible variable name conflict 'player'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/API/С*пї.rtm,332": Possible variable name conflict 'item'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,64": Possible variable name conflict 'contextType'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,64": Possible variable name conflict 'referencedObject'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,64": Possible variable name conflict 'parameters'
+SCRIPT    (W): @"GameLabs/Scripts/3_Game/вюъъ?џдз.jpg,75": Unsafe down-casting, use 'Object.Cast' for safe down-casting
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : [ERROR]	Type Converter not found for type=int
+SCRIPT       : 	Get() JM/CF/Scripts/1_Core/communityframework\typeconverter\cf_typeconverter.c : 118
+SCRIPT       : 	Register() JM/CF/Scripts/3_Game/communityframework\network\cf_networkedvariables.c : 90
+SCRIPT       : 	RegisterNetSyncVariable() JM/CF/Scripts/3_Game/communityframework\module\cf_modulegame.c : 111
+SCRIPT       : 	OnInit() TraderPlus/scripts/3_Game/traderplussystemconfig\logger\traderplusloggermodule.c : 21
+SCRIPT       : 	Init() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecore.c : 40
+SCRIPT       : 	_Create() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 122
+SCRIPT       : 	_OnCreate() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 47
+SCRIPT       : 	CF_ModuleConstructor() JM/CF/Scripts/3_Game/communityframework\module\cf_moduleconstructor.c : 11
+SCRIPT       : 	_Init() JM/CF/Scripts/3_Game/communityframework\module\cf_moduleconstructor.c : 35
+SCRIPT       : 	Invoke() JM/CF/Scripts/2_GameLib/communityframework\lifecycleevents\cf_lifecycleevents.c : 16
+SCRIPT       : 	Invoke() JM/CF/Scripts/2_GameLib/communityframework\eventhandler\cf_eventhandler.c : 65
+SCRIPT       : 	DayZGame@583#1() JM/CF/Scripts/3_Game/communityframework\lifecycleevents\dayzgame.c : 9
+SCRIPT       : 	CreateGame() scripts/3_Game/game.c : 7
+SCRIPT       : 	CF_CreateGame() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 4
+SCRIPT       : [ERROR]	(TraderPlusLoggerModule<4661d580>) CF_NetworkedVariables<6b4658f0>::RegisterNetSyncVariable('networkSync_LogLevel') -> TypeConverter not found for type 'int'
+SCRIPT       : 	Register() JM/CF/Scripts/3_Game/communityframework\network\cf_networkedvariables.c : 94
+SCRIPT       : 	RegisterNetSyncVariable() JM/CF/Scripts/3_Game/communityframework\module\cf_modulegame.c : 111
+SCRIPT       : 	OnInit() TraderPlus/scripts/3_Game/traderplussystemconfig\logger\traderplusloggermodule.c : 21
+SCRIPT       : 	Init() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecore.c : 40
+SCRIPT       : 	_Create() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 122
+SCRIPT       : 	_OnCreate() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 47
+SCRIPT       : 	CF_ModuleConstructor() JM/CF/Scripts/3_Game/communityframework\module\cf_moduleconstructor.c : 11
+SCRIPT       : 	_Init() JM/CF/Scripts/3_Game/communityframework\module\cf_moduleconstructor.c : 35
+SCRIPT       : 	Invoke() JM/CF/Scripts/2_GameLib/communityframework\lifecycleevents\cf_lifecycleevents.c : 16
+SCRIPT       : 	Invoke() JM/CF/Scripts/2_GameLib/communityframework\eventhandler\cf_eventhandler.c : 65
+SCRIPT       : 	DayZGame@583#1() JM/CF/Scripts/3_Game/communityframework\lifecycleevents\dayzgame.c : 9
+SCRIPT       : 	CreateGame() scripts/3_Game/game.c : 7
+SCRIPT       : 	CF_CreateGame() JM/CF/Scripts/3_Game/communityframework\communityframework.c : 4
+SCRIPT       : DZM_Projects Map! by DaOne
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,36": Missing ';' at the end of line
+SCRIPT    (W): @"G65_byALEX_data/scripts/4_World/classes\useractionscomponent\actions\singleuse\actionattachonselection.c,17": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1113": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1119": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1225": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1231": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1288": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1294": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1351": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1357": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1414": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1420": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1477": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1483": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1540": Missing ';' at the end of line
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,1546": Missing ';' at the end of line
+SCRIPT    (W): @"ModularVestSystem/scripts/4_World/mvs_taco.c,19": Missing ';' at the end of line
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\motorhome.c,233": Missing ';' at the end of line
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/classes\useractionscomponent\actions\doorsactionstyphoon\actionopencardoors.c,38": Missing ';' at the end of line
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/classes\useractionscomponent\actions\doorsactionstyphoon\actionclosecardoors.c,38": Missing ';' at the end of line
+SCRIPT    (W): @"DozorB_byALEX_data/scripts/4_world/classes/useractionscomponent/actions/doorsactionstyphoon/?ђюљЫнШЯќ.fxy,38": Missing ';' at the end of line
+SCRIPT    (W): @"DozorB_byALEX_data/scripts/4_world/classes/useractionscomponent/actions/doorsactionstyphoon/*Ъєлмж.fxy,38": Missing ';' at the end of line
+SCRIPT    (W): @"GAZ66_byALEX_data/scripts/4_World/entities\deobfuscated_file16.c,21": FIX-ME: Overriding function 'CanAttachToCarCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\deobfuscated_file18.c,10": FIX-ME: Overriding function 'SetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\deobfuscated_file18.c,16": FIX-ME: Overriding function 'GetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\deobfuscated_file18.c,21": FIX-ME: Overriding function 'CanAttachToCarCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\deobfuscated_file18.c,26": FIX-ME: Overriding function 'IsCarTent' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\itembase_car.c,10": FIX-ME: Overriding function 'SetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\itembase_car.c,16": FIX-ME: Overriding function 'GetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\itembase_car.c,21": FIX-ME: Overriding function 'CanAttachToCarCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\itembase_car.c,26": FIX-ME: Overriding function 'IsCarTent' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\deobfuscated_file16.c,10": FIX-ME: Overriding function 'SetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\deobfuscated_file16.c,16": FIX-ME: Overriding function 'GetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\deobfuscated_file16.c,21": FIX-ME: Overriding function 'CanAttachToCarCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\deobfuscated_file16.c,26": FIX-ME: Overriding function 'IsCarTent' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\deobfuscated_file18.c,10": FIX-ME: Overriding function 'SetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\deobfuscated_file18.c,16": FIX-ME: Overriding function 'GetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\deobfuscated_file18.c,21": FIX-ME: Overriding function 'CanAttachToCarCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\deobfuscated_file18.c,26": FIX-ME: Overriding function 'IsCarTent' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\?аЫи.c,10": FIX-ME: Overriding function 'SetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\?аЫи.c,16": FIX-ME: Overriding function 'GetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\?аЫи.c,21": FIX-ME: Overriding function 'CanAttachToCarCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\?аЫи.c,26": FIX-ME: Overriding function 'IsCarTent' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\itembase_car.c,10": FIX-ME: Overriding function 'SetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\itembase_car.c,16": FIX-ME: Overriding function 'GetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\itembase_car.c,21": FIX-ME: Overriding function 'CanAttachToCarCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\itembase_car.c,26": FIX-ME: Overriding function 'IsCarTent' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\deobfuscated_file24.c,10": FIX-ME: Overriding function 'SetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\deobfuscated_file24.c,16": FIX-ME: Overriding function 'GetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\deobfuscated_file24.c,21": FIX-ME: Overriding function 'CanAttachToCarCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\deobfuscated_file24.c,26": FIX-ME: Overriding function 'IsCarTent' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\deobfuscated_file0.c,10": FIX-ME: Overriding function 'SetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\deobfuscated_file0.c,16": FIX-ME: Overriding function 'GetCookingInCar' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\deobfuscated_file0.c,21": FIX-ME: Overriding function 'CanAttachToCarCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\carrierrig.c,16": FIX-ME: Overriding function 'SmershException' but not marked as 'override'
+SCRIPT    (W): @"EGER_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_eger_foglights.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"EGER_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_eger_foglights.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"EGER_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_eger_foglights.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"EGER_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_eger_foglights.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"EGER_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_eger_foglights.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"EGER_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_eger_foglights.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"EGER_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_eger_foglights.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"EGER_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_eger_foglights.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"EGER_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_eger_foglights.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file22.c,30": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file27.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,7": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,12": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,17": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,27": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,32": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,37": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,42": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,55": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file3.c,10": FIX-ME: Overriding function 'IsCabinCanManipulate' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file3.c,15": FIX-ME: Overriding function 'GetCabinAnimationSource' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file3.c,20": FIX-ME: Overriding function 'IsCabinRised' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file3.c,25": FIX-ME: Overriding function 'IsPassengersInCabin' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file2.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file2.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file2.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file2.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file2.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file2.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file2.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file2.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file2.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,60": FIX-ME: Overriding function 'FogLightHasBulbs' but not marked as 'override'
+SCRIPT    (W): @"HAMMER_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file6.c,4": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"HEMTT_byALEX_data/scripts/4_World/entities\vehicles\кэшы?ўыы.c,5": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file24.c,10": FIX-ME: Overriding function 'IsCabinCanManipulate' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file24.c,15": FIX-ME: Overriding function 'GetCabinAnimationSource' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file24.c,20": FIX-ME: Overriding function 'IsCabinRised' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file24.c,25": FIX-ME: Overriding function 'IsPassengersInCabin' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,29": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,7": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,12": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,17": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,27": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,32": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,37": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,42": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,55": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file0.c,10": FIX-ME: Overriding function 'IsCabinCanManipulate' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file0.c,15": FIX-ME: Overriding function 'GetCabinAnimationSource' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file0.c,20": FIX-ME: Overriding function 'IsCabinRised' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file0.c,25": FIX-ME: Overriding function 'IsPassengersInCabin' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file4.c,12": FIX-ME: Overriding function 'IsKamaz' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file4.c,17": FIX-ME: Overriding function 'IsKamaz_4350' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file4.c,22": FIX-ME: Overriding function 'IsKamaz_4350_Kung' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file3.c,7": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file3.c,12": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file3.c,17": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file3.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file3.c,27": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file3.c,32": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file3.c,37": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file3.c,42": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_ServerMod/scripts/4_world/entities\vehicles\deobfuscated_file3.c,55": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,67": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,72": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,77": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,87": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,92": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,97": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,102": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,107": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,10": FIX-ME: Overriding function 'IsCabinCanManipulate' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,15": FIX-ME: Overriding function 'GetCabinAnimationSource' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,20": FIX-ME: Overriding function 'IsCabinRised' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,25": FIX-ME: Overriding function 'IsPassengersInCabin' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,82": FIX-ME: Overriding function 'IsBatteryUsable2' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,10": FIX-ME: Overriding function 'IsCabinCanManipulate' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,15": FIX-ME: Overriding function 'GetCabinAnimationSource' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,20": FIX-ME: Overriding function 'IsCabinRised' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,25": FIX-ME: Overriding function 'IsPassengersInCabin' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file8.c,4": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file10.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file10.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file10.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file10.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file10.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file10.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file10.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file10.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file10.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"MAZ_509_byALEX_data/scripts/4_World/entities\vehicles\carscript_maz_cabinmanipulte.c,10": FIX-ME: Overriding function 'IsCabinCanManipulate' but not marked as 'override'
+SCRIPT    (W): @"MAZ_509_byALEX_data/scripts/4_World/entities\vehicles\carscript_maz_cabinmanipulte.c,15": FIX-ME: Overriding function 'GetCabinAnimationSource' but not marked as 'override'
+SCRIPT    (W): @"MAZ_509_byALEX_data/scripts/4_World/entities\vehicles\carscript_maz_cabinmanipulte.c,20": FIX-ME: Overriding function 'IsCabinRised' but not marked as 'override'
+SCRIPT    (W): @"MAZ_509_byALEX_data/scripts/4_World/entities\vehicles\carscript_maz_cabinmanipulte.c,25": FIX-ME: Overriding function 'IsPassengersInCabin' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\vehicles\carscript_motorhome_kunglights.c,7": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\vehicles\carscript_motorhome_kunglights.c,12": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\vehicles\carscript_motorhome_kunglights.c,17": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\vehicles\carscript_motorhome_kunglights.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\vehicles\carscript_motorhome_kunglights.c,27": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\vehicles\carscript_motorhome_kunglights.c,32": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\vehicles\carscript_motorhome_kunglights.c,37": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\vehicles\carscript_motorhome_kunglights.c,42": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\vehicles\carscript_motorhome_kunglights.c,55": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_motorhome_kunglights.c,7": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_motorhome_kunglights.c,12": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_motorhome_kunglights.c,17": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_motorhome_kunglights.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_motorhome_kunglights.c,27": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_motorhome_kunglights.c,32": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_motorhome_kunglights.c,37": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_motorhome_kunglights.c,42": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"MotorHome_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_motorhome_kunglights.c,55": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file1.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file1.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file1.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file1.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file1.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file1.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file1.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file1.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file1.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/entities\vehicles\carscript.c,13": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_ServerMod/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_ServerMod/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_ServerMod/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_ServerMod/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_ServerMod/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_ServerMod/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_ServerMod/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_ServerMod/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_ServerMod/scripts/4_World/entities\vehicles\carscript_novator_foglights.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"OffroadRangeRover_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file5.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Oshkosh_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file3.c,5": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,7": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,12": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,17": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,22": FIX-ME: Overriding function 'IsBatteryUsable2' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,27": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,32": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,37": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,42": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,47": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,53": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,58": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,63": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,68": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,73": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,78": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,83": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,88": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file17.c,93": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file5.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file5.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file5.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file5.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file5.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file5.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file5.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file5.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file5.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file0.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,7": FIX-ME: Overriding function 'GetPoliceLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,12": FIX-ME: Overriding function 'HasPoliceLights' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,17": FIX-ME: Overriding function 'IsPoliceLightsOn' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,27": FIX-ME: Overriding function 'CanPoliceLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,32": FIX-ME: Overriding function 'PoliceLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,37": FIX-ME: Overriding function 'PoliceLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,42": FIX-ME: Overriding function 'TogglePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,55": FIX-ME: Overriding function 'UpdatePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,7": FIX-ME: Overriding function 'GetPoliceLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,12": FIX-ME: Overriding function 'HasPoliceLights' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,17": FIX-ME: Overriding function 'IsPoliceLightsOn' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,27": FIX-ME: Overriding function 'CanPoliceLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,32": FIX-ME: Overriding function 'PoliceLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,37": FIX-ME: Overriding function 'PoliceLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,42": FIX-ME: Overriding function 'TogglePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,55": FIX-ME: Overriding function 'UpdatePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"Typhoon_byALEX_data/scripts/4_world/entities/vehicles/ЦбшњсЬ?і.p3d,5": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file0.c,7": FIX-ME: Overriding function 'GetPoliceLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file0.c,12": FIX-ME: Overriding function 'HasPoliceLights' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file0.c,17": FIX-ME: Overriding function 'IsPoliceLightsOn' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file0.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file0.c,27": FIX-ME: Overriding function 'CanPoliceLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file0.c,32": FIX-ME: Overriding function 'PoliceLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file0.c,37": FIX-ME: Overriding function 'PoliceLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file0.c,42": FIX-ME: Overriding function 'TogglePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file0.c,55": FIX-ME: Overriding function 'UpdatePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file11.c,4": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,7": FIX-ME: Overriding function 'GetPoliceLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,12": FIX-ME: Overriding function 'HasPoliceLights' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,17": FIX-ME: Overriding function 'IsPoliceLightsOn' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,27": FIX-ME: Overriding function 'CanPoliceLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,32": FIX-ME: Overriding function 'PoliceLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,37": FIX-ME: Overriding function 'PoliceLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,42": FIX-ME: Overriding function 'TogglePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,55": FIX-ME: Overriding function 'UpdatePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file14.c,7": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file14.c,12": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file14.c,17": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file14.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file14.c,27": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file14.c,32": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file14.c,37": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file14.c,42": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file14.c,55": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file6.c,8": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_kunglights.c,7": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_kunglights.c,12": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_kunglights.c,17": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_kunglights.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_kunglights.c,27": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_kunglights.c,32": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_kunglights.c,37": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_kunglights.c,42": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_kunglights.c,55": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,11": FIX-ME: Overriding function 'CanAttachFireplace' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,16": FIX-ME: Overriding function 'IsCarWithFireplace' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,21": FIX-ME: Overriding function 'GetFirepointIndex' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,26": FIX-ME: Overriding function 'GetFirePointSelection' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,31": FIX-ME: Overriding function 'GetFirePlacePoint' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,36": FIX-ME: Overriding function 'GetSmokePoint' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,41": FIX-ME: Overriding function 'AddFireplace' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,46": FIX-ME: Overriding function 'RemoveFireplace' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,51": FIX-ME: Overriding function 'IsFireplaseIsIgnited' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,56": FIX-ME: Overriding function 'HasFireplace' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,61": FIX-ME: Overriding function 'GetFireplace' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,66": FIX-ME: Overriding function 'AttachFireplace' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,71": FIX-ME: Overriding function 'DetachFireplace' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,76": FIX-ME: Overriding function 'DetectFireplace' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,81": FIX-ME: Overriding function 'LoadExistingFireplace' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,86": FIX-ME: Overriding function 'SetFireplaceSmokePoint' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,91": FIX-ME: Overriding function 'SetFireplaceSmokeParticlePoint' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,96": FIX-ME: Overriding function 'StartFireplaceSmokeOnCar' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,101": FIX-ME: Overriding function 'StopFireplaceSmokeOnCar' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,107": FIX-ME: Overriding function 'GetCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,112": FIX-ME: Overriding function 'AddCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_ural_fireplace.c,117": FIX-ME: Overriding function 'RemoveCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,7": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,12": FIX-ME: Overriding function 'HasFogLights' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,17": FIX-ME: Overriding function 'IsFogLightsOn' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,27": FIX-ME: Overriding function 'CanFogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,32": FIX-ME: Overriding function 'FogLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,37": FIX-ME: Overriding function 'FogLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,42": FIX-ME: Overriding function 'ToggleFogLights' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,55": FIX-ME: Overriding function 'UpdateFogLights' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,11": FIX-ME: Overriding function 'CanAttachFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,16": FIX-ME: Overriding function 'IsCarWithFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,21": FIX-ME: Overriding function 'GetFirepointIndex' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,26": FIX-ME: Overriding function 'GetFirePointSelection' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,31": FIX-ME: Overriding function 'GetFirePlacePoint' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,36": FIX-ME: Overriding function 'GetSmokePoint' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,41": FIX-ME: Overriding function 'AddFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,46": FIX-ME: Overriding function 'RemoveFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,51": FIX-ME: Overriding function 'IsFireplaseIsIgnited' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,56": FIX-ME: Overriding function 'HasFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,61": FIX-ME: Overriding function 'GetFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,66": FIX-ME: Overriding function 'AttachFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,71": FIX-ME: Overriding function 'DetachFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,76": FIX-ME: Overriding function 'DetectFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,81": FIX-ME: Overriding function 'LoadExistingFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,86": FIX-ME: Overriding function 'SetFireplaceSmokePoint' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,91": FIX-ME: Overriding function 'SetFireplaceSmokeParticlePoint' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,96": FIX-ME: Overriding function 'StartFireplaceSmokeOnCar' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,101": FIX-ME: Overriding function 'StopFireplaceSmokeOnCar' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,107": FIX-ME: Overriding function 'GetCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,112": FIX-ME: Overriding function 'AddCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\vehicles\ёяс*и.c,117": FIX-ME: Overriding function 'RemoveCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,11": FIX-ME: Overriding function 'CanAttachFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,16": FIX-ME: Overriding function 'IsCarWithFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,21": FIX-ME: Overriding function 'GetFirepointIndex' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,26": FIX-ME: Overriding function 'GetFirePointSelection' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,31": FIX-ME: Overriding function 'GetFirePlacePoint' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,36": FIX-ME: Overriding function 'GetSmokePoint' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,41": FIX-ME: Overriding function 'AddFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,46": FIX-ME: Overriding function 'RemoveFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,51": FIX-ME: Overriding function 'IsFireplaseIsIgnited' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,56": FIX-ME: Overriding function 'HasFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,61": FIX-ME: Overriding function 'GetFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,66": FIX-ME: Overriding function 'AttachFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,71": FIX-ME: Overriding function 'DetachFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,76": FIX-ME: Overriding function 'DetectFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,81": FIX-ME: Overriding function 'LoadExistingFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,86": FIX-ME: Overriding function 'SetFireplaceSmokePoint' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,91": FIX-ME: Overriding function 'SetFireplaceSmokeParticlePoint' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,96": FIX-ME: Overriding function 'StartFireplaceSmokeOnCar' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,101": FIX-ME: Overriding function 'StopFireplaceSmokeOnCar' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,107": FIX-ME: Overriding function 'GetCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,112": FIX-ME: Overriding function 'AddCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars_Servermod/scripts/4_world/entities\vehicles\carscript_fireplaceincar.c,117": FIX-ME: Overriding function 'RemoveCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file18.c,5": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file27.c,7": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file27.c,12": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file27.c,17": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file27.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file27.c,27": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file27.c,32": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file27.c,37": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file27.c,42": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file27.c,55": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_kunglights.c,7": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_kunglights.c,12": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_kunglights.c,17": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_kunglights.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_kunglights.c,27": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_kunglights.c,32": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_kunglights.c,37": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_kunglights.c,42": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_kunglights.c,55": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,11": FIX-ME: Overriding function 'CanAttachFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,16": FIX-ME: Overriding function 'IsCarWithFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,21": FIX-ME: Overriding function 'GetFirepointIndex' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,26": FIX-ME: Overriding function 'GetFirePointSelection' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,31": FIX-ME: Overriding function 'GetFirePlacePoint' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,36": FIX-ME: Overriding function 'GetSmokePoint' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,41": FIX-ME: Overriding function 'AddFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,46": FIX-ME: Overriding function 'RemoveFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,51": FIX-ME: Overriding function 'IsFireplaseIsIgnited' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,56": FIX-ME: Overriding function 'HasFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,61": FIX-ME: Overriding function 'GetFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,66": FIX-ME: Overriding function 'AttachFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,71": FIX-ME: Overriding function 'DetachFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,76": FIX-ME: Overriding function 'DetectFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,81": FIX-ME: Overriding function 'LoadExistingFireplace' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,86": FIX-ME: Overriding function 'SetFireplaceSmokePoint' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,91": FIX-ME: Overriding function 'SetFireplaceSmokeParticlePoint' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,96": FIX-ME: Overriding function 'StartFireplaceSmokeOnCar' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,101": FIX-ME: Overriding function 'StopFireplaceSmokeOnCar' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,107": FIX-ME: Overriding function 'GetCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,112": FIX-ME: Overriding function 'AddCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_ServerMod/scripts/4_world/entities\vehicles\carscript_zil130_fireplace.c,117": FIX-ME: Overriding function 'RemoveCookingEquipment' but not marked as 'override'
+SCRIPT    (W): @"BTR_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file10.c,5": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file16.c,7": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file16.c,12": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file16.c,17": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file16.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file16.c,27": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file16.c,32": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file16.c,37": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file16.c,42": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file16.c,55": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,7": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,12": FIX-ME: Overriding function 'HasKungLight' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,17": FIX-ME: Overriding function 'IsKungLightOn' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,27": FIX-ME: Overriding function 'CanKungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,32": FIX-ME: Overriding function 'KungLightSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,37": FIX-ME: Overriding function 'KungLightSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,42": FIX-ME: Overriding function 'ToggleKungLight' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,55": FIX-ME: Overriding function 'UpdateKungLight' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file9.c,7": FIX-ME: Overriding function 'GetPoliceLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file9.c,12": FIX-ME: Overriding function 'HasPoliceLights' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file9.c,17": FIX-ME: Overriding function 'IsPoliceLightsOn' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file9.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file9.c,27": FIX-ME: Overriding function 'CanPoliceLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file9.c,32": FIX-ME: Overriding function 'PoliceLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file9.c,37": FIX-ME: Overriding function 'PoliceLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file9.c,42": FIX-ME: Overriding function 'TogglePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file9.c,55": FIX-ME: Overriding function 'UpdatePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,7": FIX-ME: Overriding function 'GetPoliceLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,12": FIX-ME: Overriding function 'HasPoliceLights' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,17": FIX-ME: Overriding function 'IsPoliceLightsOn' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,27": FIX-ME: Overriding function 'CanPoliceLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,32": FIX-ME: Overriding function 'PoliceLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,37": FIX-ME: Overriding function 'PoliceLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,42": FIX-ME: Overriding function 'TogglePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file1.c,55": FIX-ME: Overriding function 'UpdatePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file7.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,7": FIX-ME: Overriding function 'GetNeonLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,12": FIX-ME: Overriding function 'HasNeonLights' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,17": FIX-ME: Overriding function 'IsNeonLightsOn' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,22": FIX-ME: Overriding function 'IsBatteryUsable' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,27": FIX-ME: Overriding function 'CanNeonLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,32": FIX-ME: Overriding function 'NeonLightsSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,37": FIX-ME: Overriding function 'NeonLightsSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,42": FIX-ME: Overriding function 'ToggleNeonLights' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_ServerMod/scripts/4_World/entities\vehicles\deobfuscated_file2.c,55": FIX-ME: Overriding function 'UpdateNeonLights' but not marked as 'override'
+SCRIPT    (W): @"Cougar_byALEX_data/scripts/4_World/entities\vehicles\deobfuscated_file4.c,5": FIX-ME: Overriding function 'HandleDoorsSound' but not marked as 'override'
+SCRIPT    (W): @"Novator_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\novator.c,781": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\inventory_base\м?ЪдЭ.c,39": FIX-ME: Overriding function 'ParticleCookingStart' but not marked as 'override'
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\tentbase.c,4": FIX-ME: Overriding function 'CanPutAsAttachment' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file20.c,809": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_Typhoon_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file20.c,962": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/eyepatch\eyepatch_dismantle.c,58": FIX-ME: Overriding function 'SetActions' but not marked as 'override'
+SCRIPT    (W): @"SCOUT_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file6.c,661": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Kamaz_4350_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file5.c,1061": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\itembase\edible_base\Шр?њЯрјћѓХ.c,29": FIX-ME: Overriding function 'ParticleCookingStart' but not marked as 'override'
+SCRIPT    (W): @"GAZ66_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file2.c,1025": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"TLC_200_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\tlc_200.c,36": FIX-ME: Overriding function 'DashboardShineOn' but not marked as 'override'
+SCRIPT    (W): @"TLC_200_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\tlc_200.c,68": FIX-ME: Overriding function 'DashboardShineOff' but not marked as 'override'
+SCRIPT    (W): @"RAPTOR_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file0.c,464": FIX-ME: Overriding function 'DashboardShineOn' but not marked as 'override'
+SCRIPT    (W): @"RAPTOR_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file0.c,496": FIX-ME: Overriding function 'DashboardShineOff' but not marked as 'override'
+SCRIPT    (W): @"GameLabs/Scripts/4_World/4_Hooking/т?бнЮЬ.fxy,34": Possible variable name conflict '_registeredInstance'
+SCRIPT    (W): @"MotorHome_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\motorhome.c,985": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Citroen2CV_byALEX_data/scripts/4_World/entities\core\inherited\deobfuscated_file1.c,79": FIX-ME: Overriding function 'UpdateVisualState' but not marked as 'override'
+SCRIPT    (W): @"YAR_87_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file12.c,865": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"NivaPickup_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file9.c,645": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"EGER_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file8.c,670": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"G65_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"GazTigr_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"Gelenvagen_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"M35a2_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"MAZ_509_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_maz.c,12": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"Nissan_warrior_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"URAL_4320_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file9.c,1050": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file6.c,553": FIX-ME: Overriding function 'DashboardShineOn' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file6.c,585": FIX-ME: Overriding function 'DashboardShineOff' but not marked as 'override'
+SCRIPT    (W): @"Velociraptor6x6_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file6.c,624": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/entities\itembase\fireplacebase\ЮУ?ТљэкнпеЭ.c,327": FIX-ME: Overriding function 'ParticleSteamExtinguishingStart' but not marked as 'override'
+SCRIPT    (W): @"PVEZ/4_World/pvez_adminconsolegui.c,760": Possible variable name conflict 'selectedZone'
+SCRIPT    (W): @"PVEZ/4_World/pvez_adminconsolegui.c,825": Possible variable name conflict 'selectedLawbreaker'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file4.c,592": FIX-ME: Overriding function 'GetNeonLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file12.c,1052": FIX-ME: Overriding function 'GetPoliceLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"LandCruiser_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file0.c,576": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file4.c,795": FIX-ME: Overriding function 'CreateNeonLights' but not marked as 'override'
+SCRIPT    (W): @"Opel_Astra_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"MassGuns\Scripts\4_World/entities\firearms\automaticrifle\mass_slr106.c,9": FIX-ME: Overriding function 'Open' but not marked as 'override'
+SCRIPT    (W): @"PAZ_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"test3_map/Chiemsee/ChiemseeVehicles/BathMobile/scripts/4_world/bathmobile_chiemsee\entities\vehicles\inherited\bathmobile_chiemsee__base.c,37": Possible variable name conflict 'm_showerPtcFx1'
+SCRIPT    (W): @"OffroadRangeRover_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file2.c,1027": FIX-ME: Overriding function 'GetPoliceLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Food\scripts\4_World/mremains.c,485": FIX-ME: Overriding function 'Open' but not marked as 'override'
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\swmodel3.c,88": FIX-ME: Overriding function 'HideAllSelections' but not marked as 'override'
+SCRIPT    (W): @"PAZprison_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"MassGuns\Scripts\4_World/entities\firearms\automaticrifle\mass_ak9.c,8": FIX-ME: Overriding function 'Open' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file2.c,1097": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file2.c,1210": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"PAZ_BANDIT_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file2.c,1414": FIX-ME: Overriding function 'GetMigloLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file11.c,837": FIX-ME: Overriding function 'GetFogLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"Gaz71_byALEX_ServerMod/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file2.c,151": FIX-ME: Overriding function 'UpdateFogLightsState' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file12.c,1410": FIX-ME: Overriding function 'CreatePoliceLights' but not marked as 'override'
+SCRIPT    (W): @"UAZ_3909_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file12.c,1415": FIX-ME: Overriding function 'CreatePoliceLights1' but not marked as 'override'
+SCRIPT    (W): @"MassGuns\Scripts\4_World/entities\firearms\automaticrifle\mass_rpk74_base.c,59": FIX-ME: Overriding function 'Open' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file4.c,981": FIX-ME: Overriding function 'CreateNeonLights' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file15.c,58": FIX-ME: Overriding function 'IsBuilding' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file15.c,63": FIX-ME: Overriding function 'IsFuelStation' but not marked as 'override'
+SCRIPT    (W): @"MassGuns\Scripts\4_World/entities\firearms\shotgun\spas12.c,10": FIX-ME: Overriding function 'Open' but not marked as 'override'
+SCRIPT    (W): @"ROVER_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,12": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"TLC_200_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"ToyotaHilux_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"Traktor_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"UAZ469_offroad_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"VAZ_2108_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"VAZ_2109_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"AZLK_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\setcodemenu.c,31": FIX-ME: Overriding function 'CheckState' but not marked as 'override'
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\zippo_new.c,48": FIX-ME: Overriding function 'OnSwitchOn' but not marked as 'override'
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\zippo_new.c,58": FIX-ME: Overriding function 'OnSwitchOff' but not marked as 'override'
+SCRIPT    (W): @"Food\scripts\4_World/mremains.c,435": FIX-ME: Overriding function 'Open' but not marked as 'override'
+SCRIPT    (W): @"Food\scripts\4_World/mremains.c,385": FIX-ME: Overriding function 'Open' but not marked as 'override'
+SCRIPT    (W): @"Camper_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file13.c,849": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file4.c,857": FIX-ME: Overriding function 'CreateNeonLights' but not marked as 'override'
+SCRIPT    (W): @"Buggy_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"MassMisc/scripts/4_World/items\containers\thiccweaponcase.c,71": FIX-ME: Overriding function 'IsHeavyBehaviour' but not marked as 'override'
+SCRIPT    (W): @"ZIL130_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file22.c,986": FIX-ME: Overriding function 'GetKungLightSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"MassTextures\scripts\4_World/items\survivorbag.c,3": FIX-ME: Overriding function 'CanReceiveAttachment' but not marked as 'override'
+SCRIPT    (W): @"ChevroletCorvette_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file4.c,919": FIX-ME: Overriding function 'CreateNeonLights' but not marked as 'override'
+SCRIPT    (W): @"GameLabs/Scripts/4_World/4_Hooking/?јєщшчЩ.rvmat,2": FIX-ME: Overriding function 'OnContinouousAction' but not marked as 'override'
+SCRIPT    (W): @"GameLabs/Scripts/4_World/4_Hooking/?јєщшчЩ.rvmat,42": FIX-ME: Overriding function 'OnPlacementComplete' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\guestcodemenu.c,29": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"Conqueror_byALEX_data/scripts/4_World/entities\manbase\dayzplayer\dayzplayercameravehicles_modded.c,20": FIX-ME: Overriding function 'CustomCameraSetDistance' but not marked as 'override'
+SCRIPT    (W): @"test3_map/chiemsee/chiemsee_animals/chiemsee_scorpion/scripts/4_World/chiemsee_scorpion_tail.c,49": FIX-ME: Overriding function 'ResistContaminatedEffect' but not marked as 'override'
+SCRIPT    (W): @"Chevrolet_Camaro_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file3.c,722": FIX-ME: Overriding function 'GetPoliceLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\tradermenu.c,455": FIX-ME: Overriding function 'OnMouseButtonDown' but not marked as 'override'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\tradermenu.c,1031": FIX-ME: Overriding function 'OnDoubleClick' but not marked as 'override'
+SCRIPT    (W): @"SUV_byALEX_data/scripts/4_World/entities\vehicles\inheritedcars\deobfuscated_file3.c,984": FIX-ME: Overriding function 'GetPoliceLightsSwitchSelection' but not marked as 'override'
+SCRIPT    (W): @"TraderPlusBanking/scripts/4_World/classes\tpbsystemhandler\core\traderplusbankingmenu.c,344": FIX-ME: Overriding function 'OnChange' but not marked as 'override'
+SCRIPT    (W): @"ZFirePlaceInCars/scripts/4_World/classes\useractionscomponent\actions\singleuse\ЫєіаС?ќцц.c,28": FIX-ME: Overriding function 'FindSlotIdToAttachOrCombine' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\claimcodemenu.c,27": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\logcabin.c,74": FIX-ME: Overriding function 'GetDeploySoundset' but not marked as 'override'
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\logcabin.c,79": FIX-ME: Overriding function 'GetLoopDeploySoundset' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/gui\entercodemenu.c,37": FIX-ME: Overriding function 'SendRPC' but not marked as 'override'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderpluscategorymenu.c,15": Possible variable name conflict 'layoutRoot'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderpluscategorymenu.c,25": Possible variable name conflict 'layoutRoot'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderpluscategorymenu.c,211": FIX-ME: Overriding function 'OnDoubleClick' but not marked as 'override'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderpluscategorymenu.c,243": FIX-ME: Overriding function 'OnClick' but not marked as 'override'
+SCRIPT    (W): @"Food\scripts\4_World/mremains.c,333": FIX-ME: Overriding function 'Open' but not marked as 'override'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockontent.c,73": Possible variable name conflict '_Health'
+SCRIPT    (W): @"CodeLock/scripts/4_world/actions\continuous\actiondestroycodelockonfence.c,67": Possible variable name conflict '_Health'
+SCRIPT    (W): @"GameLabs/Scripts/4_World/4_Hooking/р*чнбўесцфЭ.wsi,333": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"GameLabs/Scripts/4_World/4_Hooking/з?тЬеЪэђб.rtm,74": Possible variable name conflict 'deviation'
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\nbc_longcoat.c,8": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\nbc_longcoat.c,20": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\gunwalldisplay.c,62": Possible variable name conflict 'gunwalldisplay_mung_Deployed1'
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\hazmatsuit.c,8": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\hazmatsuit.c,20": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\gunwalldisplay_metal.c,61": Possible variable name conflict 'gunwalldisplay_mung_Deployed1'
+SCRIPT    (W): @"MunghardsItems/scripts/4_world/entities\itembase\mungmakeshifttent.c,61": Possible variable name conflict 'makeshifttent_mung_Deployed1'
+SCRIPT    (W): @"test3_map/Chiemsee/Ludwig_OBJCET/oilpump/scripts/4_World/ind_oil_pump_ep1.c,99": Possible variable name conflict 'my_ResaultOil'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\tradermenu.c,463": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\tradermenu.c,471": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT    (W): @"TraderPlus/scripts/4_World/entities\receipt\newreceipt.c,25": Unsafe down-casting, use 'NewReceipt.Cast' for safe down-casting
+SCRIPT    (W): @"TraderPlus/scripts/4_World/classes\tradersystemhandler\core\traderplusserver.c,615": Unsafe down-casting, use 'NewReceipt.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,13": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,37": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,56": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,59": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,60": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,69": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,79": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,93": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"SyberiaServer/scripts/4_World/plugins\pluginbase\plugintrader.c,282": FIX-ME: Undefined function 'PlayerBase.SpawnItemOnLocation'
+SCRIPT    (W): @"TransportBeep/Scripts/4_World/Entities/Vehicles/ъ*аџ.p3d,38": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"TransportBeep/Scripts/4_World/Entities/Vehicles/ъ*аџ.p3d,54": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"TransportBeep/Scripts/4_World/Entities/Vehicles/ъ*аџ.p3d,55": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"TransportBeep/Scripts/4_World/аѕ?њ.jpg,48": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : ::: [Fennek_byALEX]: Init
+SCRIPT       : ::: [GazTigr_byALEX]: Init
+SCRIPT       : ::: SERVER: [Kraz_6322_byALEX_ServerMod]: Init
+SCRIPT       : ::: [MAZ_509_byALEX]: Init
+SCRIPT       : ::: [Opel_Astra_byALEX]: Init
+SCRIPT       : ::: [ROVER_byALEX]: Init
+SCRIPT       : ::: SERVER: [ToyotaHilux_byALEX]: Init
+SCRIPT       : ::: [Traktor_byALEX]: Init
+SCRIPT       : ::: [UAZ469_offroad_byALEX]: Init
+SCRIPT       : ::: [VAZ_2109_byALEX]: Init
+SCRIPT       : ::: SERVER: [FirePlaceInCars_Servermod]: Init
+SCRIPT       : ::: SERVER: [ZIL130_byALEX_ServerMod]: Init
+SCRIPT       : ::: [Buggy_byALEX]: Init
+SCRIPT       : ::: [Conqueror_byALEX]: Init
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\object\jmobjectspawnermodule.c,635": Missing ';' at the end of line
+SCRIPT    (W): @"JM/COT/Scripts/5_Mission/communityonlinetools\modules\object\jmobjectspawnermodule.c,637": Missing ';' at the end of line
+SCRIPT    (W): @"SafeZone/scripts/5_Mission/vicinityitemmanager.c,17": Missing ';' at the end of line
+SCRIPT    (W): @"Interceptor_byALEX_data/scripts/5_Mission/СЩ?ѓшмрЮєР.c,7": FIX-ME: Overriding function 'LoadCarSettings' but not marked as 'override'
+SCRIPT    (W): @"EarPlugs/scripts/5_Mission/earplugs\ingamehud.c,6": FIX-ME: Overriding function 'IsHudVisible' but not marked as 'override'
+SCRIPT    (W): @"GameLabs/Scripts/5_Mission/њЬђ*эоЩСРэ.wsi,80": Possible variable name conflict 'gamesession_id'
+SCRIPT    (W): @"ServerPanel/scripts/5_Mission/gui\serverpanelmenu.c,338": FIX-ME: Undefined function 'DayZGame.GetMousePos'
+SCRIPT       : [DATABASE]: Load config file: $profile:\DatabaseOptions.json
+SCRIPT       : [DATABASE]: Database instance created.
+SCRIPT       : [dzr_disinfect_by_boiling] ::: Starting Serverside
+SCRIPT       : PVEZ :: Will use config files in profiles
+SCRIPT       : 19.02.2024 12:00:21 [ServerPanelLogger]: INFO: Switching to logfile: $profile:ServerPanel_19-02-2024_12-00-21.log
+SCRIPT       : [MMIO Misc] OnInit
+SCRIPT       : [MMIO Misc] Loading Config
+SCRIPT       : [MMIO Clothes] OnInit
+SCRIPT       : [MMIO Clothes] Loading Config
+SCRIPT       : [SYBERIA SERVER] Syberia server mission initialized
+SCRIPT       : [FBF_Config] Server Cfg loading...
+SCRIPT       : [FBF_Config] '$profile:FBF_Config/FBFConfig.json' found, loading existing config!
+SCRIPT       : string filePath = 'TraderPlus_2024_2_19-12-0-21.log'
+SCRIPT       : [DS_IncreasedStamina] Found config file, attempting to load values.
+SCRIPT       : [DS_IncreasedStamina] m_HoldBreathSwayTimeIn set to 1.5
+SCRIPT       : [DS_IncreasedStamina] m_HoldBreathSwayTimeStable set to 3
+SCRIPT       : [DS_IncreasedStamina] m_MetabolicEnergyJogMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_MetabolicEnergySprintMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_MetabolicEnergyWalkMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_MetabolicWaterJogMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_MetabolicWaterSprintMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_MetabolicWaterWalkMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaDrainClimbMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaDrainCrouchedSprintMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaDrainFastSwimMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaDrainHoldBreathFasterMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaDrainHoldBreathStartMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaDrainJumpMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaDrainLadderFastMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaDrainMeleeEvadeMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaDrainMeleeHeavyMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaDrainMeleeLightMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaDrainSprintingMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaDrainVaultMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaGainIdleMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaGainJogMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaGainSwimMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaGainWalkMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaHoldBreathDuration set to 5
+SCRIPT       : [DS_IncreasedStamina] m_StaminaKgPenaltyMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaThresholdClimbMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaThresholdHoldBreathMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaThresholdJumpMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaThresholdMeleeEvadeMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaThresholdMeleeHeavyMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaThresholdSprintMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaThresholdVaultMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaThresholdWeightLimitMult set to 1
+SCRIPT       : [DS_IncreasedStamina] m_StaminaWhenSprintDrains set to 100
+SCRIPT       : [EditorLoader] No files found, exiting
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<859fa020> with debug index 32
+SCRIPT       : [SYBERIA SERVER] Trader 1 successfully initialized.
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : Error [inv] ReplaceItemWithNewLambdaBase OnAbort
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : Error [inv] ReplaceItemWithNewLambdaBase OnAbort
+SCRIPT       : [syncinv] warning, lambda cannot be executed, skipping!
+SCRIPT       : Error [inv] ReplaceItemWithNewLambdaBase OnAbort
+SCRIPT       : [FBF_Config] MissionServer --> Sending instance of cfg to client: Jasper
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 0
+SCRIPT       : [EditorLoader] Sent Deleted objects in 0s
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 2
+SCRIPT       : [SYBERIA SERVER] PLAYER Hal Umi (yoR_hPQejevy38pVI7cJSHyugdmrvDeHBcX9TupJ1QI=) ENTER TO ZONE 0; ACTIVE ZONES COUNT 1
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 3
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 3
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x54_20Rnd:23788 parent=SurvivorM_Mirek:2:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x39_20Rnd:23759 parent=SurvivorM_Mirek:2:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_380_35rnd:23786 parent=SurvivorM_Mirek:2:INSTANCETYPE_SERVER }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_22_50Rnd:23744 parent=SurvivorM_Mirek:2:INSTANCETYPE_SERVER }
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=MassMREBreadW:23767 parent=SurvivorM_Mirek:2:INSTANCETYPE_SERVER }
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 5
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 20
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=geb_Lure2:23672 parent=geb_PurpleFishingRod:23671 slot=5424085 }
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 20
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=geb_Lure2:23672 parent=geb_PurpleFishingRod:23671 slot=5424085 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=geb_Lure2:24148 parent=geb_PurpleFishingRod:23671 slot=5424085 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=geb_Lure2:24182 parent=geb_PurpleFishingRod:23671 slot=5424085 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=geb_Lure2:24268 parent=geb_PurpleFishingRod:23671 slot=5424085 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=geb_Lure2:24222 parent=geb_PurpleFishingRod:23671 slot=5424085 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=geb_Lure2:23990 parent=geb_PurpleFishingRod:23671 slot=5424085 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=geb_Lure2:18480 parent=geb_PurpleFishingRod:23671 slot=5424085 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=geb_Lure2:18998 parent=geb_PurpleFishingRod:23671 slot=5424085 }
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=MassMREMCBeefStewW:23766 parent=SurvivorM_Mirek:2:INSTANCETYPE_SERVER }
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=MassMREPoppySeedCakeW:23768 parent=SurvivorM_Mirek:2:INSTANCETYPE_SERVER }
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 3
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 3
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [FBF_Config] MissionServer --> Sending instance of cfg to client: Sarco
+SCRIPT       : [SYBERIA SERVER] Send SYBRPC_NEWCHAR_SCREEN_OPEN RPC.
+SCRIPT       : [EditorLoader] Sent Deleted objects in 0s
+SCRIPT       : [SYBERIA SERVER] SYBRPC_CREATENEWCHAR_REQUEST Received from PlayerIdentity<5cde4d30>
+SCRIPT       : [SYBERIA SERVER] Success to create new character
+SCRIPT       : [SYBERIA SERVER] Send SYBRPC_EQUIP_SCREEN_OPEN RPC.
+SCRIPT       : [SYBERIA SERVER] SYBRPC_STARTGAME_REQUEST Received from PlayerIdentity<5cde4d30>
+SCRIPT       : [SYBERIA SERVER] PLAYER Sarc Assmo (pod5B72JHSqsn_XNMr587skUFpcgUl5U4e6KmhqavEU=) ENTER TO ZONE 0; ACTIVE ZONES COUNT 1
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=ATTACHMENT item=BoneBait:18027 parent=ImprovisedFishingRod:8639 slot=5424085 }
+SCRIPT       : Magazine mag = NULL
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<71a0b9c0> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
+SCRIPT       : [SYBERIA SERVER] SYBSTATS mark dirty for player SurvivorBase<86d1e010> with debug index 7
