@@ -1,0 +1,147 @@
+[COT 2024-3M-13 4h:24:42] 76561199108250772: Set GodMode To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-3M-13 4h:24:43] 76561199108250772: Set cannot be targeted by AI to true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-3M-13 4h:24:44] 76561199108250772: Set UnlimitedStamina To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-3M-13 4h:24:44] 76561199108250772: Set UnlimitedAmmo To true [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-3M-13 4h:25:0s] 76561199108250772: Teleported to position <4841.301758, 0.924792, 6215.381348>
+[COT 2024-3M-13 4h:25:9s] 76561199108250772: Entered the Free Camera
+[COT 2024-3M-13 4h:25:19] 76561199108250772: Left the Free Camera
+[COT 2024-3M-13 4h:25:24] 76561199108250772: Teleported to position <6271.297852, 4.594112, 5743.037109>
+[COT 2024-3M-13 4h:25:30] 76561199108250772: Entered the Free Camera
+[COT 2024-3M-13 4h:25:44] 76561199108250772: Left the Free Camera
+[COT 2024-3M-13 4h:25:53] 76561199108250772: Entered the Free Camera
+[COT 2024-3M-13 4h:26:0s] 76561199108250772: Left the Free Camera
+[COT 2024-3M-13 4h:27:0s] 76561199108250772: Teleported to position <999.922180, 175.865585, 997.477417>
+[COT 2024-3M-13 4h:27:40] 76561199108250772: Teleported to position <338.772003, 287.650208, 1045.041504>
+[COT 2024-3M-13 4h:28:14] 76561199108250772: Healed [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=]
+[COT 2024-3M-13 4h:28:35] 76561199108250772: Entered the Free Camera
+[COT 2024-3M-13 4h:28:40] 76561199108250772: Left the Free Camera
+[COT 2024-3M-13 4h:28:56] 76561199108250772: Entered the Free Camera
+[COT 2024-3M-13 4h:29:7s] 76561199108250772: Left the Free Camera
+[COT 2024-3M-13 4h:29:29] 76561199108250772: Teleported to position <7697.338379, 25.142696, 1795.247192>
+[COT 2024-3M-13 4h:29:58] 76561199108250772: ESP: Viewing ESP
+[COT 2024-3M-13 4h:30:0s] 76561199108250772: ESP index=0 target=ZmbF_HikerSkinny_Blue:568 position=<7719.089844, 25.257099, 1793.360474> action=delete
+[COT 2024-3M-13 4h:30:0s] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-3M-13 4h:30:4s] 76561199108250772: ESP index=0 target=ZmbM_HunterOld_Summer:548 position=<7718.522949, 25.187363, 1794.361938> action=delete
+[COT 2024-3M-13 4h:30:4s] 76561199108250772: ESP index=1 target=ZmbF_HikerSkinny_Grey:580 position=<7720.249023, 25.446304, 1790.785645> action=delete
+[COT 2024-3M-13 4h:30:4s] 76561199108250772: ESP index=2 target=ZmbF_HikerSkinny_Grey:540 position=<7719.924316, 25.387575, 1791.616821> action=delete
+[COT 2024-3M-13 4h:30:4s] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-3M-13 4h:30:6s] 76561199108250772: ESP index=0 target=ZmbM_HikerSkinny_Green:597 position=<7711.855469, 23.822285, 1811.821289> action=delete
+[COT 2024-3M-13 4h:30:6s] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-3M-13 4h:30:8s] 76561199108250772: ESP index=0 target=ZmbM_HermitSkinny_Green:561 position=<7719.296387, 25.799511, 1785.984741> action=delete
+[COT 2024-3M-13 4h:30:8s] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-3M-13 4h:30:18] 76561199108250772: ESP index=0 target=ZmbM_HermitSkinny_Red:595 position=<7822.390625, 18.696255, 1640.008789> action=delete
+[COT 2024-3M-13 4h:30:18] 76561199108250772: ESP index=1 target=ZmbF_HikerSkinny_Green:594 position=<7790.041504, 23.152239, 1681.471680> action=delete
+[COT 2024-3M-13 4h:30:18] 76561199108250772: ESP index=2 target=ZmbM_HermitSkinny_Red:551 position=<7808.085938, 23.132828, 1674.201172> action=delete
+[COT 2024-3M-13 4h:30:18] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-3M-13 4h:30:21] 76561199108250772: ESP index=0 target=ZmbF_HikerSkinny_Red:501 position=<7797.085449, 23.150642, 1682.977051> action=delete
+[COT 2024-3M-13 4h:30:21] 76561199108250772: ESP index=1 target=ZmbM_HikerSkinny_Green:494 position=<7821.528809, 22.270699, 1668.727295> action=delete
+[COT 2024-3M-13 4h:30:21] 76561199108250772: ESP index=2 target=ZmbM_HunterOld_Summer:563 position=<7820.339355, 22.292757, 1663.786743> action=delete
+[COT 2024-3M-13 4h:30:21] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-3M-13 4h:30:34] 76561199108250772: ESP: Clearing ESP
+[COT 2024-3M-13 4h:32:16] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<88379af0>, 100, 100, 0) at <7680.828613, 26.028795, 1777.244507>
+[COT 2024-3M-13 4h:32:16] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<88373b50>, 100, 100, 0) at <7680.825195, 26.053028, 1777.307007>
+[COT 2024-3M-13 4h:32:17] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<8839fef0>, 100, 100, 0) at <7680.820313, 26.086449, 1777.393188>
+[COT 2024-3M-13 4h:32:17] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<8839a8e0>, 100, 100, 0) at <7680.815918, 26.117758, 1777.473877>
+[COT 2024-3M-13 4h:32:18] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<883a0880>, 100, 100, 0) at <7680.810547, 26.158419, 1777.578735>
+[COT 2024-3M-13 4h:32:19] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<88399f50>, 100, 100, 0) at <7680.807129, 26.180452, 1777.635620>
+[COT 2024-3M-13 4h:32:19] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<883a1210>, 100, 100, 0) at <7680.799805, 26.234564, 1777.775146>
+[COT 2024-3M-13 4h:32:20] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<8839cf20>, 100, 100, 0) at <7680.792969, 26.280783, 1777.894287>
+[COT 2024-3M-13 4h:32:20] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<8839d8b0>, 100, 100, 0) at <7680.788086, 26.316610, 1777.986694>
+[COT 2024-3M-13 4h:32:21] 76561199108250772: Spawned Entity #syb_zvirus_antidot_name (InjectorBase<883a1ba0>, 100, 100, 0) at <7680.781250, 26.365215, 1778.111938>
+[COT 2024-3M-13 4h:32:43] 76561199108250772: Spawned Entity MVS Sling Pack - Black (MountainBag_ColorBase<8907ec40>, 100, 300, 0) at <7681.145508, 26.048801, 1777.183472>
+[COT 2024-3M-13 4h:32:46] 76561199108250772: Spawned Entity MVS Sling Pack - Black (MountainBag_ColorBase<89086f10>, 100, 300, 0) at <7681.657227, 26.117779, 1776.544922>
+[COT 2024-3M-13 4h:33:15] 76561199108250772: Spawned Entity #syb_adepress (TabletsBase<893accd0>, 10, 50, 0) at <7681.705566, 26.057493, 1777.467529>
+[COT 2024-3M-13 4h:33:16] 76561199108250772: Spawned Entity #syb_adepress (TabletsBase<893ae0f0>, 10, 50, 0) at <7681.631348, 26.087902, 1777.547363>
+[COT 2024-3M-13 4h:33:17] 76561199108250772: Spawned Entity #syb_adepress (TabletsBase<893b59b0>, 10, 50, 0) at <7681.575684, 26.110825, 1777.607544>
+[COT 2024-3M-13 4h:33:17] 76561199108250772: Spawned Entity #syb_adepress (TabletsBase<893b1d50>, 10, 50, 0) at <7681.509277, 26.137846, 1777.678589>
+[COT 2024-3M-13 4h:33:18] 76561199108250772: Spawned Entity #syb_adepress (TabletsBase<893b6dd0>, 10, 50, 0) at <7681.451172, 26.161768, 1777.741333>
+[COT 2024-3M-13 4h:33:18] 76561199108250772: Spawned Entity #syb_adepress (TabletsBase<893b4590>, 10, 50, 0) at <7681.393066, 26.185602, 1777.803955>
+[COT 2024-3M-13 4h:33:19] 76561199108250772: Spawned Entity #syb_adepress (TabletsBase<893b63c0>, 10, 50, 0) at <7681.308594, 26.220171, 1777.894775>
+[COT 2024-3M-13 4h:33:19] 76561199108250772: Spawned Entity #syb_adepress (TabletsBase<893b81f0>, 10, 50, 0) at <7681.250977, 26.243750, 1777.956665>
+[COT 2024-3M-13 4h:33:37] 76561199108250772: Spawned Entity #syb_surgical_kit_once_name (SurgicalKit<8740d410>, 100, 100, 0) at <7682.062500, 26.091223, 1777.234009>
+[COT 2024-3M-13 4h:33:38] 76561199108250772: Spawned Entity #syb_surgical_kit_once_name (SurgicalKit<87409ab0>, 100, 100, 0) at <7682.022949, 26.105518, 1777.275024>
+[COT 2024-3M-13 4h:33:38] 76561199108250772: Spawned Entity #syb_surgical_kit_once_name (SurgicalKit<8740dda0>, 100, 100, 0) at <7681.981445, 26.120378, 1777.317261>
+[COT 2024-3M-13 4h:33:39] 76561199108250772: Spawned Entity #syb_surgical_kit_once_name (SurgicalKit<87407470>, 100, 100, 0) at <7681.941406, 26.134853, 1777.359253>
+[COT 2024-3M-13 4h:33:39] 76561199108250772: Spawned Entity #syb_surgical_kit_once_name (SurgicalKit<8740e730>, 100, 100, 0) at <7681.883301, 26.155840, 1777.419434>
+[COT 2024-3M-13 4h:33:40] 76561199108250772: Spawned Entity #syb_surgical_kit_once_name (SurgicalKit<8740f0c0>, 100, 100, 0) at <7681.838867, 26.171591, 1777.464600>
+[COT 2024-3M-13 4h:34:15] 76561199108250772: Spawned Entity Alcoholic Tincture (DisinfectantAlcohol<893c9bb0>, 200, 30, 0) at <7681.931152, 26.092197, 1777.123169>
+[COT 2024-3M-13 4h:34:16] 76561199108250772: Spawned Entity Alcoholic Tincture (DisinfectantAlcohol<893ce220>, 200, 30, 0) at <7681.886719, 26.107119, 1777.162109>
+[COT 2024-3M-13 4h:34:17] 76561199108250772: Spawned Entity Alcoholic Tincture (DisinfectantAlcohol<893ca5c0>, 200, 30, 0) at <7681.841797, 26.122328, 1777.201782>
+[COT 2024-3M-13 4h:34:17] 76561199108250772: Spawned Entity Alcoholic Tincture (DisinfectantAlcohol<893c7370>, 200, 30, 0) at <7681.784180, 26.141771, 1777.252441>
+[COT 2024-3M-13 4h:34:33] 76561199108250772: Spawned Entity Quilted Jacket (QuiltedJacket_ColorBase<893d8320>, 200, 120, 0) at <7682.235840, 26.119411, 1776.947021>
+[COT 2024-3M-13 4h:34:37] 76561199108250772: Spawned Entity CUU Pants (USMCPants_ColorBase<893d3cb0>, 200, 160, 0) at <7682.210449, 26.069473, 1777.663086>
+[COT 2024-3M-13 4h:35:12] 76561199108250772: Spawned Entity Heckler & Koch HK417 (SNHK417_Gun<287e8190>, 100, 200, 0) at <7681.841309, 26.076092, 1777.294312>
+[COT 2024-3M-13 4h:35:13] 76561199108250772: Spawned Entity Heckler & Koch HK417 (SNHK417_Gun<287ea2c0>, 100, 200, 0) at <7681.679688, 26.110973, 1777.393799>
+[COT 2024-3M-13 4h:35:17] 76561199108250772: Spawned Entity 20 Round HK417 Semi-Automatic Magazine (SNHK417_Mag<1bd30b80>, 20, 100, 0) at <7681.621582, 26.123510, 1777.429565>
+[COT 2024-3M-13 4h:35:18] 76561199108250772: Spawned Entity 20 Round HK417 Semi-Automatic Magazine (SNHK417_Mag<1bd37a30>, 20, 100, 0) at <7681.552734, 26.138363, 1777.471924>
+[COT 2024-3M-13 4h:35:18] 76561199108250772: Spawned Entity 20 Round HK417 Semi-Automatic Magazine (SNHK417_Mag<1bd3cab0>, 20, 100, 0) at <7681.488281, 26.152288, 1777.511597>
+[COT 2024-3M-13 4h:35:19] 76561199108250772: Spawned Entity 20 Round HK417 Semi-Automatic Magazine (SNHK417_Mag<1bd3ded0>, 20, 100, 0) at <7681.350098, 26.182129, 1777.596802>
+[COT 2024-3M-13 4h:36:31] 76561199108250772: ESP: Viewing ESP
+[COT 2024-3M-13 4h:36:35] 76561199108250772: ESP index=0 target=ZmbM_HikerSkinny_Blue:568 position=<7743.431152, 22.544554, 1866.128540> action=delete
+[COT 2024-3M-13 4h:36:35] 76561199108250772: ESP index=1 target=ZmbM_HikerSkinny_Yellow:501 position=<7751.481934, 23.055767, 1865.058472> action=delete
+[COT 2024-3M-13 4h:36:35] 76561199108250772: ESP index=2 target=ZmbM_HikerSkinny_Yellow:494 position=<7752.458008, 23.254995, 1861.005371> action=delete
+[COT 2024-3M-13 4h:36:35] 76561199108250772: ESP index=3 target=ZmbM_FishermanOld_Green:563 position=<7727.978516, 21.319891, 1872.465576> action=delete
+[COT 2024-3M-13 4h:36:35] 76561199108250772: ESP action=delete_all count=4 attempted=4
+[COT 2024-3M-13 4h:36:36] 76561199108250772: ESP index=0 target=ZmbM_HunterOld_Spring:527 position=<7750.667480, 23.588768, 1852.896118> action=delete
+[COT 2024-3M-13 4h:36:36] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-3M-13 4h:36:40] 76561199108250772: ESP index=0 target=ZmbM_HunterOld_Winter:562 position=<7782.459961, 24.038471, 1802.986328> action=delete
+[COT 2024-3M-13 4h:36:40] 76561199108250772: ESP index=1 target=ZmbM_HikerSkinny_Blue:590 position=<7720.332031, 26.119961, 1780.751343> action=delete
+[COT 2024-3M-13 4h:36:40] 76561199108250772: ESP index=2 target=ZmbM_HunterOld_Winter:593 position=<7719.947754, 26.202332, 1779.636719> action=delete
+[COT 2024-3M-13 4h:36:40] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-3M-13 4h:36:44] 76561199108250772: ESP index=0 target=ZmbF_HikerSkinny_Blue:566 position=<7718.819336, 26.902992, 1768.128662> action=delete
+[COT 2024-3M-13 4h:36:44] 76561199108250772: ESP index=1 target=ZmbM_HunterOld_Summer:493 position=<7870.626465, 29.269028, 1697.943848> action=delete
+[COT 2024-3M-13 4h:36:44] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-3M-13 4h:36:48] 76561199108250772: ESP index=0 target=ZmbM_HunterOld_Autumn:528 position=<7799.345215, 22.985224, 1705.594116> action=delete
+[COT 2024-3M-13 4h:36:48] 76561199108250772: ESP index=1 target=ZmbF_HikerSkinny_Red:524 position=<7724.055664, 26.662096, 1767.326172> action=delete
+[COT 2024-3M-13 4h:36:48] 76561199108250772: ESP index=2 target=ZmbM_FishermanOld_Green:596 position=<7883.802246, 26.692217, 1657.318237> action=delete
+[COT 2024-3M-13 4h:36:48] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-3M-13 4h:36:51] 76561199108250772: ESP index=0 target=ZmbF_HikerSkinny_Grey:595 position=<7817.395020, 20.716724, 1704.069336> action=delete
+[COT 2024-3M-13 4h:36:51] 76561199108250772: ESP index=1 target=ZmbM_HermitSkinny_Black:576 position=<7822.824707, 21.903151, 1686.369385> action=delete
+[COT 2024-3M-13 4h:36:51] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-3M-13 4h:37:39] 76561199108250772: Teleported [guid=OAdpPkJP2Ps_W7h2ttR1bK23ekHCzrxw0mDT3zqLMdU=] to <7680.631348, 25.983746, 1777.961182>
+[COT 2024-3M-13 4h:37:39] 76561199108250772: Teleported [guid=3p-YYG47S1cbIqbPzlY97HQVhQnllIqTMosZN8gECQk=] to <7680.631348, 25.983746, 1777.961182>
+[COT 2024-3M-13 4h:37:51] 76561199108250772: ESP index=0 target=ZmbM_HermitSkinny_Red:579 position=<7823.022949, 17.260843, 1620.246826> action=delete
+[COT 2024-3M-13 4h:37:51] 76561199108250772: ESP index=1 target=ZmbM_FishermanOld_Red:492 position=<7767.223145, 23.157360, 1672.114136> action=delete
+[COT 2024-3M-13 4h:37:51] 76561199108250772: ESP action=delete_all count=2 attempted=2
+[COT 2024-3M-13 4h:37:53] 76561199108250772: ESP index=0 target=ZmbM_HunterOld_Spring:578 position=<7872.113770, 20.905554, 1612.019043> action=delete
+[COT 2024-3M-13 4h:37:53] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-3M-13 4h:37:55] 76561199108250772: ESP index=0 target=ZmbF_HikerSkinny_Green:577 position=<7799.652344, 23.145067, 1651.669678> action=delete
+[COT 2024-3M-13 4h:37:55] 76561199108250772: ESP index=1 target=ZmbM_HunterOld_Spring:594 position=<7769.730957, 23.157156, 1691.599121> action=delete
+[COT 2024-3M-13 4h:37:55] 76561199108250772: ESP index=2 target=ZmbM_HunterOld_Summer:569 position=<7796.681152, 23.151217, 1666.436279> action=delete
+[COT 2024-3M-13 4h:37:55] 76561199108250772: ESP action=delete_all count=3 attempted=3
+[COT 2024-3M-13 4h:37:58] 76561199108250772: ESP index=0 target=ZmbF_HikerSkinny_Green:551 position=<7798.993164, 22.101095, 1634.531616> action=delete
+[COT 2024-3M-13 4h:37:58] 76561199108250772: ESP action=delete_all count=1 attempted=1
+[COT 2024-3M-13 4h:38:30] 76561199108250772: Spawned Entity #syb_topoizomeraza_name (InjectorBase<8e4486b0>, 100, 100, 0) at <7681.273438, 26.026430, 1777.606934>
+[COT 2024-3M-13 4h:38:31] 76561199108250772: Spawned Entity #syb_topoizomeraza_name (InjectorBase<8e45f210>, 100, 100, 0) at <7681.134766, 26.080427, 1777.570313>
+[COT 2024-3M-13 4h:38:32] 76561199108250772: Spawned Entity #syb_topoizomeraza_name (InjectorBase<8e45cbd0>, 100, 100, 0) at <7681.070801, 26.105234, 1777.553467>
+[COT 2024-3M-13 4h:38:32] 76561199108250772: Spawned Entity #syb_topoizomeraza_name (InjectorBase<8e464820>, 100, 100, 0) at <7680.951660, 26.151562, 1777.522095>
+[COT 2024-3M-13 4h:39:40] 76561199108250772: Healed [guid=3p-YYG47S1cbIqbPzlY97HQVhQnllIqTMosZN8gECQk=]
+[COT 2024-3M-13 4h:40:18] 76561199108250772: Set Broken Legs To true [guid=3p-YYG47S1cbIqbPzlY97HQVhQnllIqTMosZN8gECQk=]
+[COT 2024-3M-13 4h:40:25] 76561199108250772: Set Broken Legs To false [guid=3p-YYG47S1cbIqbPzlY97HQVhQnllIqTMosZN8gECQk=]
+[COT 2024-3M-13 4h:40:26] 76561199108250772: Healed [guid=3p-YYG47S1cbIqbPzlY97HQVhQnllIqTMosZN8gECQk=]
+[COT 2024-3M-13 4h:40:39] 76561199108250772: Healed [guid=3p-YYG47S1cbIqbPzlY97HQVhQnllIqTMosZN8gECQk=]
+[COT 2024-3M-13 4h:41:38] 76561199108250772: ESP: Clearing ESP
+[COT 2024-3M-13 4h:41:56] 76561199108250772: Spawned Entity  (SpookyArea<1bb91e60>, 100, -1, 0) at <7678.084961, 26.166914, 1773.601685>
+[COT 2024-3M-13 4h:42:39] 76561199108250772: Spawned Entity Hen (Animal_GallusGallusDomesticusF_Spotted<1bb8e800>, 100, 100, 0) at <7683.711914, 25.767960, 1782.807007>
+[COT 2024-3M-13 4h:42:45] 76561199108250772: Spawned Entity Rooster (Animal_GallusGallusDomesticus<1bb9af60>, 100, 100, 0) at <7674.647461, 26.024502, 1773.644653>
+[COT 2024-3M-13 4h:42:45] 76561199108250772: Spawned Entity Rooster (Animal_GallusGallusDomesticus<1bb9ca90>, 100, 100, 0) at <7674.648438, 26.024557, 1773.644775>
+[COT 2024-3M-13 4h:42:46] 76561199108250772: Spawned Entity Rooster (Animal_GallusGallusDomesticus<1bb722e0>, 100, 100, 0) at <7674.651855, 26.024557, 1773.652100>
+[COT 2024-3M-13 4h:42:46] 76561199108250772: Spawned Entity Rooster (Animal_GallusGallusDomesticus<1bb820a0>, 100, 100, 0) at <7674.649902, 26.024557, 1773.647705>
+[COT 2024-3M-13 4h:42:47] 76561199108250772: Spawned Entity Rooster (Animal_GallusGallusDomesticus<11eb860>, 100, 100, 0) at <7674.648926, 26.024557, 1773.646118>
+[COT 2024-3M-13 4h:42:47] 76561199108250772: Spawned Entity Rooster (Animal_GallusGallusDomesticus<11ed390>, 100, 100, 0) at <7674.647461, 26.024557, 1773.643799>
+[COT 2024-3M-13 4h:42:47] 76561199108250772: Spawned Entity Rooster (Animal_GallusGallusDomesticus<120cf10>, 100, 100, 0) at <7674.648438, 26.024578, 1773.645752>
+[COT 2024-3M-13 4h:42:48] 76561199108250772: Spawned Entity Rooster (Animal_GallusGallusDomesticus<1208690>, 100, 100, 0) at <7674.648438, 26.024578, 1773.645386>
+[COT 2024-3M-13 4h:42:48] 76561199108250772: Spawned Entity Rooster (Animal_GallusGallusDomesticus<121bab0>, 100, 100, 0) at <7674.647461, 26.024641, 1773.643311>
+[COT 2024-3M-13 4h:42:48] 76561199108250772: Spawned Entity Rooster (Animal_GallusGallusDomesticus<3f6c1ce0>, 100, 100, 0) at <7674.648438, 26.024641, 1773.645386>
+[COT 2024-3M-13 4h:42:48] 76561199108250772: Spawned Entity Rooster (Animal_GallusGallusDomesticus<3f6c5c50>, 100, 100, 0) at <7674.648926, 26.024641, 1773.645874>
+[COT 2024-3M-13 4h:42:48] 76561199108250772: Spawned Entity Rooster (Animal_GallusGallusDomesticus<3f6c6560>, 100, 100, 0) at <7674.649414, 26.024641, 1773.647461>
+[COT 2024-3M-13 4h:42:57] 76561199108250772: Teleported to position <6377.147461, 3.790660, 5816.786133>
+[COT 2024-3M-13 4h:43:6s] 76561199108250772: Entered the Free Camera
+[COT 2024-3M-13 4h:43:10] 76561199108250772: Left the Free Camera
+[COT 2024-3M-13 4h:47:14] 76561199108250772: Entered the Free Camera
+[COT 2024-3M-13 4h:47:27] 76561199108250772: Left the Free Camera
+[COT 2024-3M-13 4h:48:23] 76561199108250772: Entered the Free Camera
+[COT 2024-3M-13 4h:48:29] 76561199108250772: Left the Free Camera
+[COT 2024-3M-13 4h:48:49] 76561199108250772: Entered the Free Camera
+[COT 2024-3M-13 4h:48:54] 76561199108250772: Left the Free Camera
+[COT 2024-3M-13 4h:49:13] 76561199108250772: Entered the Free Camera
